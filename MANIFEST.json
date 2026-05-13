@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-05-13T02:34:20.922478",
+  "source_files": [
+    "Nützliche &quot;Illegale&quot; Webseiten Aufdecken.docx",
+    "Illegal_websites_perplexity.docx",
+    "Workflow-Optimierung- Apps und Services.docx",
+    "WEBSITES THAT FEEL ILLEGAL TO KNOW.docx",
+    "Daily Routine Example.docx"
+  ],
+  "counts": {
+    "main": 117,
+    "excluded": 21,
+    "backlog": 109,
+    "caution": 32,
+    "needs": 24,
+    "source_only": 119
+  },
+  "total_inventory_rows": 422,
+  "files": [
+    "AWESOME_ILLEGAL_TO_KNOW.md",
+    "DAILY_ROUTINE_EXAMPLES.md",
+    "EXCLUDED_DANGEROUS_OR_ILLEGAL.md",
+    "MANIFEST.json",
+    "NEEDS_VERIFICATION.md",
+    "OPTIONAL_BACKLOG.md",
+    "QUALITY_GATE_REPORT.md",
+    "README_STAGING.md",
+    "RESOURCE_INVENTORY.csv",
+    "RESOURCE_INVENTORY.md",
+    "SOURCES_AUDIT.md",
+    "SOURCE_ONLY_REFERENCE_DOMAINS.md"
+  ]
+}

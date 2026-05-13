@@ -1,0 +1,423 @@
+name,url,category,status,description,sources,confidence,notes
+10Web,10web.io,Builder / AI Web,main,AI website builder for WordPress-style production sites.,NITW,source_mentioned,
+AICarousels,aicarousels.com,Design / Social,main,AI tool for LinkedIn and Instagram carousel creation.,NITW,source_mentioned,
+AIxploria,aixploria.com,AI directory,main,Large directory of AI tools and categories.,PPLX,source_mentioned,
+AlternativeTo.net,alternativeto.net,Discovery,main,Find alternatives to software and web services.,NITW,source_mentioned,
+AnswerThePublic,answerthepublic.com,Search / SEO,main,Autocomplete and question-discovery tool.,NITW,source_mentioned,
+arXiv,arxiv.org,Research / Open access,main,"Open repository for preprints, especially physics, math and CS.",NITW,source_mentioned,
+Awesome OSINT,github.com/jivoi/awesome-osint,OSINT meta,main,Large GitHub collection of OSINT resources.,PPLX,source_mentioned,
+Bardeen,bardeen.ai,Automation,main,Browser-native automation and workflow assistant.,NITW,source_mentioned,
+Beautiful.ai,beautiful.ai,Presentation,main,AI-assisted presentation design.,NITW,source_mentioned,
+BlackBox AI,blackbox.ai,Dev / AI coding,main,AI coding assistant and code explanation tool.,"NITW, PPLX",source_mentioned,
+Bohrium,bohrium.com,Research AI,main,AI-for-science research workspace.,WFLOW,source_mentioned,
+Bolt.new,bolt.new,Builder / Vibe coding,main,Browser-based app builder and prototyping tool.,WFLOW,source_mentioned,
+Bookboon,bookboon.com,Books / Education,main,Free and paid textbooks/business e-books.,NITW,source_mentioned,
+Brusheezy,brusheezy.com,Design assets,main,Brushes and visual design assets.,NITW,source_mentioned,
+BuiltWith,builtwith.com,Tech stack lookup,main,Analyze which technologies a website uses.,NITW,source_mentioned,
+CapCut,capcut.com,Video / Creator,main,Mobile/desktop video editor often used in creator workflows.,NITW,source_mentioned,
+Cat Bounce,cat-bounce.com,Weird web,main,Absurd novelty site; harmless rabbit hole.,PPLX,source_mentioned,
+Claude Code,anthropic.com/claude-code,Dev agent,main,Terminal-based coding agent; verify current official URL.,WFLOW,source_mentioned,
+Cleanup.Pictures,cleanup.pictures,Image editing,main,AI object removal and image cleanup.,"NITW, PPLX",source_mentioned,
+Code Beautify,codebeautify.org,Dev utility,main,"Format, validate and convert code/data snippets.","NITW, PPLX",source_mentioned,
+ColorSpace,mycolor.space,Design / Color,main,Color palette and gradient generator.,"NITW, PPLX",source_mentioned,
+Consensus,consensus.app,Research AI,main,Evidence-oriented academic search and synthesis tool.,WFLOW,source_mentioned,
+CORE,core.ac.uk,Open access,main,Open-access paper aggregator.,"NITW, WFI",source_mentioned,
+CVE List (MITRE),cve.mitre.org,Security reference,main,Official CVE vulnerability database.,PPLX,source_mentioned,
+DaFont,dafont.com,Design / Fonts,main,Large font archive; check licenses per font.,NITW,source_mentioned,
+Descript,descript.com,Audio / Video,main,Text-based audio and video editing.,NITW,source_mentioned,
+diagrams.net / draw.io,diagrams.net,Diagramming,main,Browser-based diagram editor.,PPLX,source_mentioned,
+Directory of Open Access Journals,doaj.org,Open access,main,Directory of peer-reviewed open-access journals.,NITW,source_mentioned,
+Dora,dora.run,No-code web,main,Interactive/3D website builder and prototyping tool.,NITW,source_mentioned,
+DOTOWN,dotown.maeda-design-room.net,Design assets,main,Retro pixel-art asset library.,NITW,source_mentioned,
+Down For Everyone Or Just Me,downforeveryoneorjustme.com,Utility,main,Check whether a website is down globally or only for you.,WFI,source_mentioned,
+Downsub,downsub.com,Video / Subtitles,main,Download subtitles/transcripts from video platforms.,"NITW, PPLX",source_mentioned,
+Eagle App,en.eagle.cool,Asset management,main,Local creative asset organizer.,NITW,source_mentioned,
+Earth Nullschool,earth.nullschool.net,Data visualization,main,Interactive weather/wind/ocean visualization.,PPLX,source_mentioned,
+Eel Slap,eelslap.com,Weird web,main,Classic single-joke weird-web site.,PPLX,source_mentioned,
+Elicit,elicit.com,Research AI,main,Literature review and structured paper extraction tool.,WFLOW,source_mentioned,
+Endless Horse,endless.horse,Weird web,main,Classic endless-scroll web oddity.,PPLX,source_mentioned,
+ExtendLM,extendlm.com,Knowledge management,main,NotebookLM enhancement/extension; verify current feature set.,WFLOW,source_mentioned,
+Fathom,fathom.video,Meeting AI,main,Meeting recorder and AI summary tool.,WFLOW,source_mentioned,
+Finanztip,finanztip.de,Finance education,main,Independent German personal-finance education.,NITW,source_mentioned,
+FindNiche,findniche.com,Ad / Market research,main,E-commerce and ad intelligence for niche/product research.,PPLX,source_mentioned,
+Fireflies.ai,fireflies.ai,Meeting AI,main,"Meeting transcription, summaries and action extraction.",WFLOW,source_mentioned,
+FragDenStaat,fragdenstaat.de,Public records,main,German freedom-of-information request platform.,NITW,source_mentioned,
+Free Design Resources,freedesignresources.net,Design assets,main,"Templates, mockups and design freebies.",NITW,source_mentioned,
+Freepik,freepik.com,Design assets,main,Vector and illustration resource; check license terms.,"NITW, WFLOW",source_mentioned,
+FutureMe,futureme.org,Weird utility,main,Send letters to your future self.,"NITW, WFI",source_mentioned,
+Gamma,gamma.app,Presentation / Docs,main,AI-generated presentations/docs/web pages.,PPLX,source_mentioned,
+Gistr.so,gistr.so,Knowledge management,main,NotebookLM-like knowledge tool with video/highlight workflows.,WFLOW,source_mentioned,
+Google AI Studio,aistudio.google.com,AI dev,main,Browser IDE for Gemini API and prototypes.,PPLX,source_mentioned,
+Google Scholar Legal / Patents,scholar.google.com,Legal / Patents,main,Legal opinions and patent search via Google Scholar.,NITW,source_mentioned,
+Gumloop,gumloop.com,Automation,main,AI workflow and data-extraction automation.,WFLOW,source_mentioned,
+HackerTyper,hackertyper.net,Weird web,main,Fake hacker typing simulator for fun.,V2,source_mentioned,
+Have I Been Pwned,haveibeenpwned.com,Breach check,main,Check whether accounts appear in known data breaches.,"NITW, PPLX, WFI",source_mentioned,
+InShot,inshot.com,Video / Creator,main,Mobile video editing app.,NITW,source_mentioned,
+Internet Archive / Wayback Machine,archive.org/web,Archive,main,Historical web archive.,"NITW, PPLX",source_mentioned,
+Jamie,meetjamie.ai,Meeting AI,main,Bot-free meeting notes and transcription.,WFLOW,source_mentioned,
+Justia,justia.com,Legal research,main,Free legal database.,NITW,source_mentioned,
+Legal Information Institute,law.cornell.edu,Legal research,main,Cornell legal information resources.,NITW,source_mentioned,
+Lindy AI,lindy.ai,Automation / Agents,main,Natural-language AI automation agents.,WFLOW,source_mentioned,
+LM Arena,lmarena.ai,AI model testing,main,Compare/test LLMs in a unified interface.,PPLX,source_mentioned,
+Looka,looka.com,Branding,main,AI logo/branding generator.,NITW,source_mentioned,
+Lovable,lovable.dev,Builder / Vibe coding,main,AI app builder with backend/integration workflows.,WFLOW,source_mentioned,
+Make,make.com,Automation,main,Visual workflow automation platform.,"DRE, NITW, WFLOW",source_mentioned,
+Microsoft Clarity,clarity.microsoft.com,Analytics,main,Free analytics/heatmap tool for web behaviour.,PPLX,source_mentioned,
+MXToolbox,mxtoolbox.com,Mail/DNS diagnostics,main,"DNS, MX and blacklist diagnostic utilities.",PPLX,source_mentioned,
+n8n,n8n.io,Automation,main,Open-source workflow automation.,"DRE, WFLOW",source_mentioned,
+Namecheap Logo Maker,namecheap.com/logo-maker,Branding,main,Free/automated logo maker.,NITW,source_mentioned,
+Napkin AI,napkin.ai,Knowledge / Ideation,main,Transforms ideas and notes into structured outputs/visuals.,PPLX,source_mentioned,
+Neal.fun,neal.fun,Weird web,main,Interactive experiments and educational simulations.,PPLX,source_mentioned,
+Ninite,ninite.com,Utility / Windows,main,Bulk installer for Windows apps.,"NITW, WFI",source_mentioned,
+NotebookLM,notebooklm.google.com,Knowledge management,main,Source-grounded research notebook by Google.,"PPLX, WFLOW",source_mentioned,
+Office of Law Revision Counsel,uscode.house.gov,Legal research,main,Official U.S. Code site.,NITW,source_mentioned,
+Ollama,ollama.com,Local AI,main,Run local LLMs via CLI/API.,WFLOW,source_mentioned,
+OMFG Dogs,omfgdogs.com,Weird web,main,Classic absurd web animation.,PPLX,source_mentioned,
+Open Access Button,openaccessbutton.org,Open access,main,Find/request legal open versions of research.,"NITW, WFI",source_mentioned,
+Open Library,openlibrary.org,Books / Library,main,Open editable library catalog and digital lending.,PPLX,source_mentioned,
+OpenStax,openstax.org,Education / OER,main,Peer-reviewed open textbooks.,NITW,source_mentioned,
+OSINT Directory,osintdirectory.com,OSINT meta,main,Directory of OSINT tools.,PPLX,source_mentioned,
+OSINT Framework alt,osintframe.work,OSINT meta,main,OSINT click-tree domain cited in source.,PPLX,source_mentioned,
+Otter.ai,otter.ai,Meeting AI,main,Meeting transcription and notes.,"PPLX, WFLOW",source_mentioned,
+Patatap,patatap.com,Weird web,main,Keyboard-triggered sound and animation playground.,PPLX,source_mentioned,
+Perplexity,perplexity.ai,Search / AI,main,Source-backed AI search.,"DRE, NITW, PPLX, WFLOW",source_mentioned,
+Pexels,pexels.com,Media assets,main,Free stock photos and videos.,"NITW, WFI",source_mentioned,
+Photopea,photopea.com,Image editing,main,Browser-based Photoshop-like editor.,NITW,source_mentioned,
+Pixabay,pixabay.com,Media assets,main,Free stock media library.,NITW,source_mentioned,
+Pointer Pointer,pointerpointer.com,Weird web,main,Shows photos pointing at your cursor.,PPLX,source_mentioned,
+PrintFriendly,printfriendly.com,Utility / PDF,main,Clean print/PDF views of web pages; respect copyright/paywalls.,"PPLX, WFI",source_mentioned,
+Project Gutenberg,gutenberg.org,Books / Public domain,main,Public-domain e-book library.,"NITW, WFI",source_mentioned,
+PubMed Central,ncbi.nlm.nih.gov/pmc,Open access,main,Free biomedical and life-science full-text archive.,NITW,source_mentioned,
+purple.com,purple.com,Weird web / Old web,main,Minimal old-web curiosity.,PPLX,source_mentioned,
+QuillBot,quillbot.com,Writing AI,main,"Paraphrasing, grammar and writing tool.",NITW,source_mentioned,
+Radio Garden,radio.garden,Map / Radio,main,Interactive globe of live radio stations.,"NITW, PPLX, WFI",source_mentioned,
+Read AI,read.ai,Knowledge / Meeting AI,main,Meeting and enterprise knowledge assistant.,WFLOW,source_mentioned,
+Remove.bg,remove.bg,Image editing,main,Automatic background removal.,PPLX,source_mentioned,
+Replit Agent,replit.com,Dev / Agent,main,Cloud IDE and AI app builder.,V2,source_mentioned,
+Scite,scite.ai,Research validation,main,Citation-context analysis and research validation.,WFLOW,source_mentioned,
+Semantic Scholar,semanticscholar.org,Research search,main,AI-powered academic search engine.,WFLOW,source_mentioned,
+Sourcetable,sourcetable.com,AI spreadsheet,main,AI spreadsheet/research/data cleaning tool.,PPLX,source_mentioned,
+Splice,spliceapp.com,Video / Creator,main,Mobile video editing app.,NITW,source_mentioned,
+SSL Labs SSL Test,ssllabs.com/ssltest,Security diagnostics,main,Analyze TLS/SSL configuration of websites.,PPLX,source_mentioned,
+The Useless Web,theuselessweb.com,Weird web,main,Random gateway to absurd web experiences.,"PPLX, WFI",source_mentioned,
+Thread Reader,threadreaderapp.com,Social / Reading,main,Unrolls X/Twitter threads into readable pages.,"NITW, PPLX",source_mentioned,
+TinyWow,tinywow.com,Utility,main,Free online PDF/image/video/writing tools.,"NITW, PPLX",source_mentioned,
+tldraw,tldraw.com,Whiteboard / Design,main,Collaborative whiteboard/infinite canvas.,PPLX,source_mentioned,
+uBlock Origin,ublockorigin.com,Privacy / Browser,main,Open-source content blocker.,NITW,source_mentioned,
+UniScribe,uniscribe.co,Transcription,main,Audio/video transcription and summarization.,WFLOW,source_mentioned,
+Unpaywall,unpaywall.org,Open access,main,Finds legal open-access versions of papers.,"NITW, WFI",source_mentioned,
+Unsplash,unsplash.com,Media assets,main,Free high-resolution photos; respect license terms.,"NITW, WFI",source_mentioned,
+v0.dev,v0.dev,Builder / Frontend,main,AI-generated React/Tailwind UI components.,WFLOW,source_mentioned,
+Vecteezy,vecteezy.com,Design assets,main,Vector graphics and design assets.,NITW,source_mentioned,
+Vectorportal,vectorportal.com,Design assets,main,Free vector library.,NITW,source_mentioned,
+Web Design Museum,webdesignmuseum.org,Internet museum,main,Archive of web design history.,V2,source_mentioned,
+WindowSwap,window-swap.com,Weird web / Travel,main,Look through window videos from around the world.,V2,source_mentioned,
+Windsurf,windsurf.com,Dev AI,main,AI code editor/agent environment; verify official current domain if needed.,WFLOW,source_mentioned,
+WolframAlpha,wolframalpha.com,Knowledge engine,main,Computational knowledge engine.,NITW,source_mentioned,
+Zombo.com,zombo.com,Old web / Weird,main,Classic absurd old-web experience.,PPLX,source_mentioned,
+ZoomQuilt,zoomquilt.org,Weird web / Art,main,Infinite zoom collaborative artwork.,V2,source_mentioned,
+10 Minute Mail,10minutemail.com,Privacy utility,caution,Disposable mail; do not use for abuse/fraud.,V2,source_mentioned,
+AlienVault OTX,otx.alienvault.com,Security / Threat intel,caution,Community threat-intelligence exchange; defensive use only.,PPLX,source_mentioned,
+Archive.is / ArchiveTools,archive.is,Archive,caution,"Web snapshot service; useful for preservation, risky when used to bypass paywalls.","NITW, PPLX",source_mentioned,
+Archive.today,archive.today,Archive,caution,Web snapshot service; useful but should not be framed as paywall bypass.,V2,source_mentioned,
+ARIN Whois,arin.net,OSINT / Registry,caution,IP allocation and registry lookup; use for legitimate research.,PPLX,source_mentioned,
+BinaryEdge,binaryedge.io,Security search,caution,Internet scanning and exposure search; defensive use only.,V2,source_mentioned,
+Burp Suite,portswigger.net/burp,Security training/tool,caution,Professional web security testing tool; authorized testing only.,PPLX,source_mentioned,
+Censys,censys.io,Security search,caution,Internet-wide asset and certificate search; defensive use only.,PPLX,source_mentioned,
+crt.sh,crt.sh,OSINT / Certificates,caution,Certificate transparency search; useful for subdomain discovery.,PPLX,source_mentioned,
+DeHashed,dehashed.com,Breach OSINT,caution,Breach-data search; use only for defensive or authorized checks.,PPLX,source_mentioned,
+ElevenLabs,elevenlabs.io,AI voice,caution,High-quality AI voice synthesis; label synthetic voice and avoid impersonation.,NITW,source_mentioned,
+FOFA,fofa.info,Security search,caution,Cyberspace/asset search engine; defensive use only.,PPLX,source_mentioned,
+FullHunt,fullhunt.io,Attack surface,caution,External asset monitoring; authorized use only.,PPLX,source_mentioned,
+grep.app,grep.app,Code search,caution,Search public GitHub code; do not misuse exposed secrets.,PPLX,source_mentioned,
+GreyNoise Visualizer,viz.greynoise.io,Threat intel,caution,Internet-noise and scanning-behaviour intelligence; defensive use only.,PPLX,source_mentioned,
+Hack The Box,hackthebox.com,Security training,caution,Legal cyber labs and CTF-style training.,PPLX,source_mentioned,
+Hybrid Analysis,hybrid-analysis.com,Malware analysis,caution,Malware sandbox and analysis; defensive use only.,PPLX,source_mentioned,
+Intelligence X,intelx.io,OSINT / Leaks,caution,Search across leaks/archives/dark web; ethical use only.,PPLX,source_mentioned,
+Kali Linux,kali.org,Security training/tool,caution,Pentest Linux distribution; authorized use only.,PPLX,source_mentioned,
+LeakIX,leakix.net,Exposure search,caution,Search exposed services/leaks; defensive use only.,PPLX,source_mentioned,
+Listnr AI,listnr.ai,AI voice,caution,AI text-to-speech and voiceover tool; disclose synthetic audio.,"NITW, PPLX",source_mentioned,
+Lookyloo,lookyloo.circl.lu,Web forensics,caution,Visualize web page loading chains for phishing/tracker analysis.,PPLX,source_mentioned,
+OSINT Industries,osint.industries,OSINT platform,caution,Commercial OSINT platform; sensitive but legitimate use.,PPLX,source_mentioned,
+PortSwigger Web Security Academy,portswigger.net/web-security,Security training,caution,Free web security labs; authorized/educational use.,PPLX,source_mentioned,
+SecurityTrails,securitytrails.com,OSINT / DNS,caution,DNS and domain intelligence; authorized use.,PPLX,source_mentioned,
+SpiderFoot,spiderfoot.net,OSINT automation,caution,Automated recon tool; use only with authorization.,PPLX,source_mentioned,
+Temp-Mail.org,temp-mail.org,Privacy utility,caution,Disposable email; do not use for fraud or abuse.,V2,source_mentioned,
+This Person Does Not Exist,thispersondoesnotexist.com,AI / Weird,caution,AI-generated faces; avoid impersonation/misuse.,"NITW, WFI",source_mentioned,
+TryHackMe,tryhackme.com,Security training,caution,Guided cyber labs and CTF training.,PPLX,source_mentioned,
+urlscan.io,urlscan.io,Web forensics,caution,URL scanning and website behaviour analysis; defensive use only.,PPLX,source_mentioned,
+VirusTotal,virustotal.com,Security diagnostics,caution,Scan files/URLs with many engines; do not upload sensitive/private files.,PPLX,source_mentioned,
+ZoomEye,zoomeye.org,Security search,caution,Cyberspace search engine; defensive use only.,PPLX,source_mentioned,
+16personalities,16personalities.com,Personality quiz,needs,"Mentioned via awesome-websites; weak fit, verify.",PPLX,source_mentioned,
+2advanced Studios,2advanced.com,Web design history,needs,Retro web/design reference; verify current archival value.,PPLX,source_mentioned,
+Awesome Websites,github.com,Weird web meta,needs,GitHub awesome-websites list mentioned but exact repository needs verification.,"NITW, PPLX, WFLOW",source_mentioned,
+Beam,browser.engineering?,Browser / Productivity,needs,Mentioned as productivity browser/tool; exact URL and product identity need verification.,PPLX,source_mentioned,
+BestUsefulWebsites,bestusefulwebsites.com,Meta list,needs,Collection of useful websites; verify current quality and link health.,PPLX,source_mentioned,
+Comet Browser,perplexity.ai/comet,Browser / AI,needs,Perplexity browser mentioned in sources; verify availability/status.,PPLX,source_mentioned,
+Decktopus,decktopus.com,Presentation,needs,AI presentation builder mentioned; verify current product/pricing.,PPLX,source_mentioned,
+Glimpse,meetglimpse.com,Market research,needs,Trend/market research tool; verify exact URL/product status.,PPLX,source_mentioned,
+Hercules.app,hercules.app,Builder / No-code,needs,No-code full-stack builder mentioned; verify current site and scope.,PPLX,source_mentioned,
+Hitem3D,hitem3d.ai,3D AI,needs,AI 3D asset/prototyping tool; verify current product details.,WFLOW,source_mentioned,
+Huxe AI,huxe.com,Audio AI,needs,AI radio/podcast app mentioned; exact official site needs verification.,WFLOW,source_mentioned,
+Jabali Studio,jabali.ai,Game / AI builder,needs,AI-native game/app builder; verify current state.,WFLOW,source_mentioned,
+Kilo Code,kilocode.ai,Dev AI,needs,AI coding tool mentioned; verify official domain/current status.,WFLOW,source_mentioned,
+Magnific.ai,magnific.ai,Image AI,needs,High-end upscaling tool mentioned; verify current capabilities/licensing.,PPLX,source_mentioned,
+OSINT Framework,osintframework.com,OSINT meta,needs,Common OSINT click-tree; exact active domain may need verification.,PPLX,source_mentioned,
+PostFlow,postflow.com,Social media,needs,Social workflow tool mentioned; verify exact product.,WFLOW,source_mentioned,
+Recall.ai,recall.ai,Knowledge graph,needs,Name conflicts exist; verify source intended product.,WFLOW,source_mentioned,
+SelfManager.ai,selfmanager.ai,Productivity,needs,Date-based AI task manager mentioned; verify current site.,"DRE, PPLX",source_mentioned,
+Smry.ai,smry.ai,Article summary,needs,AI article summarizer; verify current site and paywall implications.,NITW,source_mentioned,
+Sticklight,sticklight.com,Builder / Web app,needs,AI app/site builder mentioned; verify current public product.,WFLOW,source_mentioned,
+The Sukha,thesukha.co,Focus / Coworking,needs,Online coworking/focus environment; verify current service.,NITW,source_mentioned,
+Tripo,tripo3d.ai,3D AI,needs,Image/text-to-3D tool; verify exact URL and terms.,WFLOW,source_mentioned,
+Uptrends,uptrends.com,Monitoring,needs,Mentioned as monitoring/stock chatter; verify intended service.,PPLX,source_mentioned,
+Workbeaver,workbeaver.ai,Automation,needs,Desktop automation assistant mentioned; verify exact site.,PPLX,source_mentioned,
+Adobe Firefly,Kommerzielle Marken-Assets & Bildbearbeitung,"Rechtssicher (lizenziertes Training), tiefe Photoshop-Integration",backlog,"Rechtssicher (lizenziertes Training), tiefe Photoshop-Integration","NITW, WFLOW",source_extracted,table 7
+Ahrefs,ahrefs.com,Market research,backlog,SEO and competitive research platform; useful but mainstream and paid.,PPLX,source_mentioned,
+AI Video Cut,aivideocut.com,Video / Creator,backlog,Automated video cutting and repurposing tool; verify current product details.,NITW,source_mentioned,
+AnythingLLM,anythingllm.com,Local AI / RAG,backlog,Local/server RAG workspace; not central to the weird-web list but useful.,WFLOW,source_mentioned,
+AnythingLLM,Lokal (Desktop / Server),"Teams, Dokumenten-RAG und Multi-User-Zugriff",backlog,"Teams, Dokumenten-RAG und Multi-User-Zugriff",WFLOW,source_extracted,table 6
+AppOmni,appomni.com,Governance / SaaS security,backlog,SaaS security governance platform; enterprise-focused.,WFLOW,source_mentioned,
+Arc Browser,arc.net,Browser / Productivity,backlog,Workspace-oriented browser; useful but mainstream.,PPLX,source_mentioned,
+Bohrium,Umfassendes Forschungs-Ökosystem,"All-in-One-Hub, Integration mit Labordaten und 140k Journalen",backlog,"All-in-One-Hub, Integration mit Labordaten und 140k Journalen",WFLOW,source_extracted,table 0
+Bolt.new,Schnelle Full-Stack-Demos,Produktteams für schnelle Validierung im Browser,backlog,Produktteams für schnelle Validierung im Browser,WFLOW,source_extracted,table 3
+Brick,getbrick.app,Focus / Productivity,backlog,Distraction blocker mentioned in productivity stacks; verify exact scope.,PPLX,source_mentioned,
+Buffer,buffer.com,Social media,backlog,Social scheduler; useful but mainstream.,WFLOW,source_mentioned,
+Buffer,Solopreneure & Simplizität,"Sehr sauberes, minimalistisches UI, exzellenter Gratis-Plan (3 Kanäle). Kostengünstig für Einzelanwender, wird aber teuer bei Skalierung. Keine Social-Listening-Tools.",backlog,"Sehr sauberes, minimalistisches UI, exzellenter Gratis-Plan (3 Kanäle). Kostengünstig für Einzelanwender, wird aber teuer bei Skalierung. Keine Social-Listening-Tools.",WFLOW,source_extracted,table 10
+BusyCal,busycal.com,Calendar / Productivity,backlog,Calendar/task tool; supporting workflow item.,PPLX,source_mentioned,
+Canva AI / Canva,canva.com,Design,backlog,Accessible design and AI content platform; mainstream but useful.,V2,source_mentioned,
+Canva AI 2.0,Schnelle Social-Media-Grafiken & Präsentationen,"Extrem zugänglich, Template-basiert, Team-Kollaboration",backlog,"Extrem zugänglich, Template-basiert, Team-Kollaboration",WFLOW,source_extracted,table 7
+Capacities,capacities.io,Knowledge management,backlog,Object-based PKM tool; source mentions as thinking tool.,PPLX,source_mentioned,
+ChatGPT,chatgpt.com,AI assistant,backlog,"General AI assistant; mainstream, useful as workflow component.","DRE, NITW, PPLX",source_mentioned,
+Claude,claude.ai,AI assistant,backlog,"General AI assistant; mainstream, useful as workflow component.","DRE, PPLX, WFLOW",source_mentioned,
+Claude Code,Terminal (CLI),Anthropic Ökosystem,backlog,Anthropic Ökosystem,WFLOW,source_extracted,table 4
+ClickUp,clickup.com,Productivity,backlog,Work hub with AI features.,PPLX,source_mentioned,
+Consensus,Evidenzbasierte Hypothesentests,"Ja/Nein-Metriken, Synthese von 200M+ Papern via Semantic Scholar",backlog,"Ja/Nein-Metriken, Synthese von 200M+ Papern via Semantic Scholar",WFLOW,source_extracted,table 0
+Copy.ai,copy.ai,Writing / Marketing,backlog,AI marketing copy and email generation.,NITW,source_mentioned,
+Cursor,VS Code Fork,"Proprietäres SaaS, beschränkte Modelle",backlog,"Proprietäres SaaS, beschränkte Modelle","DRE, PPLX, WFLOW",source_extracted,table 4
+Cyble Vision / Titan,cyble.com,Threat intelligence,backlog,Enterprise threat-intelligence/dark-web monitoring.,NITW,source_mentioned,
+Digitale Bildungsressourcen (Printables),"Lehrkräfte und Eltern kaufen massenhaft vorgefertigte Unterrichtsfolien, Arbeitsblätter und Planer auf Marktplätzen wie Teachers Pay Teachers (TpT) oder Etsy. Einmal erstellt, generieren sie passives Einkommen.","Canva, Beautiful.ai, ChatGPT, Freepik (Illustrationen).",backlog,"Canva, Beautiful.ai, ChatGPT, Freepik (Illustrationen).",NITW,source_extracted,table 2
+Elicit,Systematische Literatur-Reviews,Spaltenbasierte Datenextraktion aus hunderten PDFs gleichzeitig,backlog,Spaltenbasierte Datenextraktion aus hunderten PDFs gleichzeitig,WFLOW,source_extracted,table 0
+ExtendLM,Produktivitäts-Erweiterung für NotebookLM,"Ergänzt Ordnerstrukturen, RSS-Feeds, Bulk-Imports und YouTube-Verarbeitung direkt im Browser.",backlog,"Ergänzt Ordnerstrukturen, RSS-Feeds, Bulk-Imports und YouTube-Verarbeitung direkt im Browser.",WFLOW,source_extracted,table 1
+Faceless TikTok / YouTube Automation,"Erstellung thematischer Kanäle (Finanzen, KI-News, Produktivität) ohne persönliche Präsenz. Monetarisierung erfolgt durch Agentur-Deals, Affiliate-Links oder Creator-Fonds (ca. 1-2 USD pro 1.000 Views).","CapCut (Schnitt), Listnr AI / ElevenLabs (Voiceovers), ChatGPT (Skripte).",backlog,"CapCut (Schnitt), Listnr AI / ElevenLabs (Voiceovers), ChatGPT (Skripte).",NITW,source_extracted,table 2
+Fathom,Vertriebs- & Sales-Meetings,Exzellente CRM-Integration und Highlight-Extraktion für Solo-Nutzer (Kostenfreie Basisversion).,backlog,Exzellente CRM-Integration und Highlight-Extraktion für Solo-Nutzer (Kostenfreie Basisversion).,WFLOW,source_extracted,table 2
+Featherless AI,featherless.ai,Model hosting,backlog,Cloud access to open models; verify current terms.,WFLOW,source_mentioned,
+Featherless AI,Cloud (Serverless),"Power-User, die lokale Hardware-Limits umgehen wollen",backlog,"Power-User, die lokale Hardware-Limits umgehen wollen",WFLOW,source_extracted,table 6
+FeedHive,feedhive.com,Social media,backlog,AI-assisted social content scheduler.,WFLOW,source_mentioned,
+FeedHive,KI-gestützte Content-Kreation & Automatisierung,"Tief integrierter KI-Schreibassistent, Flux-Pro-Bildgenerierung, automatisches Content-Recycling und Trigger-basierte Auto-Kommentare bei hohem Engagement.",backlog,"Tief integrierter KI-Schreibassistent, Flux-Pro-Bildgenerierung, automatisches Content-Recycling und Trigger-basierte Auto-Kommentare bei hohem Engagement.",WFLOW,source_extracted,table 10
+Figma AI,figma.com,Design,backlog,AI features inside Figma; mainstream but useful.,WFLOW,source_mentioned,
+Figma AI,UI/UX-Prototyping & Design-Systeme,"Generiert Interface-Komponenten, verbindet Design mit Code",backlog,"Generiert Interface-Komponenten, verbindet Design mit Code",WFLOW,source_extracted,table 7
+Fireflies.ai,Automatisierte CRM-Aufgaben-Extraktion,"Nimmt als virtueller ""Bot"" am Call teil, analysiert Sprache, erstellt direkt Jira/Salesforce-Tickets.",backlog,"Nimmt als virtueller ""Bot"" am Call teil, analysiert Sprache, erstellt direkt Jira/Salesforce-Tickets.",WFLOW,source_extracted,table 2
+Flatma,Möbeldesign & Konstruktion,"Generiert aus Text Blaupausen, 3D-Modelle und exakte Schnittpläne für die reale Holzverarbeitung.",backlog,"Generiert aus Text Blaupausen, 3D-Modelle und exakte Schnittpläne für die reale Holzverarbeitung.",WFLOW,source_extracted,table 9
+Gistr.so,Hybride Struktur (Notion trifft NotebookLM),"Exzellent für YouTube-Extraktion (""Moments""), visuelles Highlighting und Block-basierte Notizen.",backlog,"Exzellent für YouTube-Extraktion (""Moments""), visuelles Highlighting und Block-basierte Notizen.",WFLOW,source_extracted,table 1
+GitHub Copilot,github.com/features/copilot,Dev AI,backlog,Mainstream AI coding assistant; supporting entry.,WFLOW,source_mentioned,
+GitHub Copilot,Plugin (Universal),Enterprise / Microsoft,backlog,Enterprise / Microsoft,WFLOW,source_extracted,table 4
+Gumloop,"Marketing, Daten-Extraktion","Visuelles Browser-Scraping, Drag-and-Drop KI-Logik",backlog,"Visuelles Browser-Scraping, Drag-and-Drop KI-Logik",WFLOW,source_extracted,table 5
+Hitem3D,High-Res Hardware-Prototyping,Generiert extrem hochauflösende Meshes (1536³) für detaillierte Miniaturen oder Hardware-Teile.,backlog,Generiert extrem hochauflösende Meshes (1536³) für detaillierte Miniaturen oder Hardware-Teile.,WFLOW,source_extracted,table 9
+Hunter.io,hunter.io,E-Mail-Extraktion / B2B-Vertrieb,backlog,E-Mail-Extraktion / B2B-Vertrieb,"NITW, PPLX",source_extracted,table 3
+Huxe AI,Interaktiver KI-Audio-Podcast,"Generiert Audio aus Nachrichten/Kalendern, das durch verbale Befehle in Echtzeit unterbrochen und angepasst werden kann.",backlog,"Generiert Audio aus Nachrichten/Kalendern, das durch verbale Befehle in Echtzeit unterbrochen und angepasst werden kann.",WFLOW,source_extracted,table 2
+Hyper-Nischen Blogs & Affiliate-Marketing,"Anstatt breite Themen (z.B. „Die besten KI-Tools“) zu behandeln, fokussieren sich erfolgreiche Publisher auf extrem spezifische, unerschlossene Lücken (z.B. „Reise-Intelligenz und Routenplanung für unbekannte osteuropäische Nischen-Städte“).","10Web (Hosting), CopyAI (Texting), Hunter.io (Backlink-Outreach).",backlog,"10Web (Hosting), CopyAI (Texting), Hunter.io (Backlink-Outreach).",NITW,source_extracted,table 2
+Jabali Studio,2D/3D Game Engine (KI-Nativ),"Integriert Code-Generierung, Asset-Kreation und Logic-Scripting in einer Plattform (Godot/Phaser Support).",backlog,"Integriert Code-Generierung, Asset-Kreation und Logic-Scripting in einer Plattform (Godot/Phaser Support).",WFLOW,source_extracted,table 9
+Jamie,Maximaler Datenschutz & Bot-frei,"Arbeitet lokal/offline, generiert keine störenden Meeting-Bots. DSGVO-konform.",backlog,"Arbeitet lokal/offline, generiert keine störenden Meeting-Bots. DSGVO-konform.",WFLOW,source_extracted,table 2
+Kilo Code,VS Code / JetBrains / CLI,"Open Source (Apache-2.0), BYOK",backlog,"Open Source (Apache-2.0), BYOK",WFLOW,source_extracted,table 4
+Kling AI,klingai.com,Video AI,backlog,AI video model/tool; verify availability and rights.,WFLOW,source_mentioned,
+Kling AI (3.0),Narrative Storyboards & Charakter,"6-Shot-Szenen, natives Lip-Sync, herausragende Kohärenz",backlog,"6-Shot-Szenen, natives Lip-Sync, herausragende Kohärenz",WFLOW,source_extracted,table 8
+Lightroom Mobile,adobe.com/products/photoshop-lightroom,Photo editing,backlog,Mainstream photo editing app; supporting tool.,NITW,source_mentioned,
+Lindy AI,"Support, Vertrieb","Natürliche Sprache, parallele ""Agent Swarms""",backlog,"Natürliche Sprache, parallele ""Agent Swarms""",WFLOW,source_extracted,table 5
+Listnr AI,listnr.tech,Text-to-Speech & Podcast-Audio,backlog,Text-to-Speech & Podcast-Audio,"NITW, PPLX",source_extracted,table 3
+LM Studio,lmstudio.ai,Local AI,backlog,Desktop app for local LLM experimentation.,WFLOW,source_mentioned,
+LM Studio,Lokal (Desktop GUI),"Einsteiger, die Modelle schnell testen wollen",backlog,"Einsteiger, die Modelle schnell testen wollen",WFLOW,source_extracted,table 6
+Lovable,Full-Stack-Prototyping & MVPs,Nicht-technische Gründer,backlog,Nicht-technische Gründer,WFLOW,source_extracted,table 3
+Luma Dream Machine,lumalabs.ai,Video AI,backlog,AI video generation; verify current model/terms.,WFLOW,source_mentioned,
+Luma Dream Machine,Social Media (TikTok/Reels),"Extrem schnell (120 Frames in 120s), hochdynamisch",backlog,"Extrem schnell (120 Frames in 120s), hochdynamisch",WFLOW,source_extracted,table 8
+Make,Komplexe Operations,"Visuelle Daten-Transformation, Verzweigungen",backlog,"Visuelle Daten-Transformation, Verzweigungen","DRE, NITW, WFLOW",source_extracted,table 5
+Market research stacks,various,Market research,backlog,"Generic cluster: Semrush, Ahrefs, Glimpse, Microsoft Clarity.",V2,source_mentioned,
+Meshy,meshy.ai,3D AI,backlog,Text/image-to-3D asset tool; verify terms.,WFLOW,source_mentioned,
+Meshy (AI),3D-Druck & Game Assets,"Text-to-3D mit perfekter Topologie. 97% Slicer-Pass-Rate, direkter Export via 3MF für Bambu Lab Drucker.",backlog,"Text-to-3D mit perfekter Topologie. 97% Slicer-Pass-Rate, direkter Export via 3MF für Bambu Lab Drucker.",WFLOW,source_extracted,table 9
+Midjourney,midjourney.com,Image AI,backlog,AI image generation; mainstream and paid.,WFLOW,source_mentioned,
+Midjourney (V7),Visuelle Ideation & Art Direction,"Unerreichte künstlerische Ästhetik, filmischer Look",backlog,"Unerreichte künstlerische Ästhetik, filmischer Look",WFLOW,source_extracted,table 7
+Mixpost,mixpost.app,Social media / Self-hosting,backlog,Self-hosted social media scheduler.,WFLOW,source_mentioned,
+Mixpost,Datenhoheit & Self-Hosting,Open-Source-Plattform. Einmalzahlung ohne monatliche SaaS-Gebühren. Volle Kontrolle über Kundendaten. Erfordert technische Einrichtung (Docker/Laravel).,backlog,Open-Source-Plattform. Einmalzahlung ohne monatliche SaaS-Gebühren. Volle Kontrolle über Kundendaten. Erfordert technische Einrichtung (Docker/Laravel).,WFLOW,source_extracted,table 10
+n8n,"Entwickler, Dateningenieure","Visualer Node-Editor, Custom Code, Open Source",backlog,"Visualer Node-Editor, Custom Code, Open Source","DRE, WFLOW",source_extracted,table 5
+Nanobanana Pro,Akademische & Business-Infografiken,Sehr hohe Konsistenz bei Vektorgrafiken und Charts,backlog,Sehr hohe Konsistenz bei Vektorgrafiken und Charts,WFLOW,source_extracted,table 7
+NotebookLM,Quellenbasierte Synthese ohne Halluzinationen,Erfordert manuelle Kuration von Quellen; generiert hochqualitative Audio-Podcasts und Reporte.,backlog,Erfordert manuelle Kuration von Quellen; generiert hochqualitative Audio-Podcasts und Reporte.,"PPLX, WFLOW",source_extracted,table 1
+Notion,notion.so,Workspace,backlog,Workspace/databases/AI; mainstream but useful.,"DRE, NITW, WFLOW",source_mentioned,
+Notion AI,All-in-One Workspace mit Datenbanken,Kombiniert Textgenerierung mit relationalen Datenbanken für Projektmanagement und Wikis.,backlog,Kombiniert Textgenerierung mit relationalen Datenbanken für Projektmanagement und Wikis.,"NITW, WFLOW",source_extracted,table 1
+Obsidian,obsidian.md,Knowledge management,backlog,Local-first notes and graph view.,"DRE, PPLX",source_mentioned,
+Ollama,Lokal (CLI / API),"Entwickler, die leichte Modelle skripten wollen",backlog,"Entwickler, die leichte Modelle skripten wollen",WFLOW,source_extracted,table 6
+Otter.ai,Live-Kollaboration in Meetings,"Bietet Live-Untertitelung (z.B. in Zoom) für alle Teilnehmer, schwächelt bei überlappenden Stimmen.",backlog,"Bietet Live-Untertitelung (z.B. in Zoom) für alle Teilnehmer, schwächelt bei überlappenden Stimmen.","PPLX, WFLOW",source_extracted,table 2
+Papers with Code,paperswithcode.com,Research / AI,backlog,Links ML papers to code; added as adjacent candidate.,V2,source_mentioned,
+Perplexity (Pro),Allgemeine KI-Recherche,Echtzeit-Websuche mit Inline-Zitationen aus dem offenen Internet,backlog,Echtzeit-Websuche mit Inline-Zitationen aus dem offenen Internet,WFLOW,source_extracted,table 0
+Pika (2.x),Visuelle Spezialeffekte,"First/Last-Frame-Locking (""Pikaframes""), Stop-Motion-Stil",backlog,"First/Last-Frame-Locking (""Pikaframes""), Stop-Motion-Stil",WFLOW,source_extracted,table 8
+PostFlow,Team-Kollaboration & Freigaben (Agency Focus),"Bietet unbegrenzte, kostenlose Team-Sitze. Fokus liegt auf Genehmigungs-Workflows (""Approvals"") mit Kunden, visuellem Planungskalender und Live-Vorschau. Verzicht auf überladene KI-Funktionen zugunsten von Simplizität.",backlog,"Bietet unbegrenzte, kostenlose Team-Sitze. Fokus liegt auf Genehmigungs-Workflows (""Approvals"") mit Kunden, visuellem Planungskalender und Live-Vorschau. Verzicht auf überladene KI-Funktionen zugunsten von Simplizität.",WFLOW,source_extracted,table 10
+Raycast,raycast.com,Productivity,backlog,macOS launcher/AI command system.,PPLX,source_mentioned,
+Read AI,Plattformübergreifender Unternehmensgraph,"Vernetzt Metadaten aus E-Mails, Slack, Dokumenten und Meetings automatisch im Hintergrund.",backlog,"Vernetzt Metadaten aus E-Mails, Slack, Dokumenten und Meetings automatisch im Hintergrund.",WFLOW,source_extracted,table 1
+Recall.ai,"Passiver, automatischer Wissensgraph","Speichert Inhalte direkt via Browser, kategorisiert semantisch ohne Ordnerzwang.",backlog,"Speichert Inhalte direkt via Browser, kategorisiert semantisch ohne Ordnerzwang.",WFLOW,source_extracted,table 1
+Reddit Ghostwriting & Seeding,"Agenturen bezahlen Nutzer für das Verfassen von organisch wirkenden Posts, Kommentaren und die verdeckte Platzierung von Marken in spezifischen Subreddits, um authentische Konversationen zu simulieren und den Algorithmus zu manipulieren.",Gealterte Reddit-Accounts mit hoher Karma-Historie.,backlog,Gealterte Reddit-Accounts mit hoher Karma-Historie.,NITW,source_extracted,table 2
+Reflect,reflect.app,Knowledge management,backlog,PKM tool with AI/backlinks/calendar.,"PPLX, WFI",source_mentioned,
+Replit (Agent),Skalierbare Enterprise-Apps,"Entwickler, die in einer vollwertigen IDE lernen und shippen wollen",backlog,"Entwickler, die in einer vollwertigen IDE lernen und shippen wollen",WFLOW,source_extracted,table 3
+Rosebud AI,Spieleentwicklung & Visuals,"Stark bei der Generierung von 2D-Sprites, Pixel-Art und stilisierten Assets für Indie-Games.",backlog,"Stark bei der Generierung von 2D-Sprites, Pixel-Art und stilisierten Assets für Indie-Games.",WFLOW,source_extracted,table 9
+Runway,runwayml.com,Video AI,backlog,AI video platform; mainstream creator tool.,WFLOW,source_mentioned,
+Runway (Gen-4.5),Kommerzielle Werbeproduktionen,"Granulare Kamerakontrolle, Image-to-Video, Charakter-Konsistenz",backlog,"Granulare Kamerakontrolle, Image-to-Video, Charakter-Konsistenz",WFLOW,source_extracted,table 8
+Scite,Zitationskontext-Analyse,"Klassifizierung von 1,2 Milliarden Zitationen (unterstützend/widersprechend)",backlog,"Klassifizierung von 1,2 Milliarden Zitationen (unterstützend/widersprechend)",WFLOW,source_extracted,table 0
+Seedance 2.0,Regie-Modus & E-Commerce,"Erhält Produktdetails/Logos über Frames hinweg, Multi-File-Input",backlog,"Erhält Produktdetails/Logos über Frames hinweg, Multi-File-Input",WFLOW,source_extracted,table 8
+Semantic Scholar,Breite Literatur-Entdeckung,"Kostenlose, KI-gestützte akademische Suchmaschine",backlog,"Kostenlose, KI-gestützte akademische Suchmaschine",WFLOW,source_extracted,table 0
+Semrush,semrush.com,Market research,backlog,SEO/competitive intelligence platform; paid/mainstream.,PPLX,source_mentioned,
+Signal,signal.org,Messaging,backlog,Private messaging app; workflow support item.,"DRE, NITW",source_mentioned,
+Simple KI-Automatisierungen für KMUs,"Einrichtung von Chatbots für lokale Shopify-Shops, automatisierte Kunden-E-Mail-Follow-ups oder die Erstellung von Notion-Dashboards für lokale Handwerker und kleine und mittlere Unternehmen, die den Anschluss an die Digitalisierung verpasst haben.","Zapier, Make, Notion, ChatGPT.",backlog,"Zapier, Make, Notion, ChatGPT.",NITW,source_extracted,table 2
+Slack,slack.com,Communication,backlog,Mainstream team chat; workflow support item.,"DRE, WFLOW",source_mentioned,
+SOCRadar,socradar.io,Threat intelligence,backlog,Enterprise threat-intelligence platform.,NITW,source_mentioned,
+Sticklight,"Produktionsreife Logik, Dashboards, Web-Apps","Creator & Ops, die volle Code- und Design-Kontrolle fordern",backlog,"Creator & Ops, die volle Code- und Design-Kontrolle fordern",WFLOW,source_extracted,table 3
+Telegram,telegram.org,Messaging,backlog,Messaging app; workflow support item.,"DRE, NITW",source_mentioned,
+Transcend,transcend.io,Privacy governance,backlog,Data/privacy governance platform; enterprise-focused.,WFLOW,source_mentioned,
+Tripo,Schnelle Asset-Generierung,Wandelt 2D-Bilder in Sekunden in saubere 3D-Modelle um. Ideal für Hintergrund-Objekte.,backlog,Wandelt 2D-Bilder in Sekunden in saubere 3D-Modelle um. Ideal für Hintergrund-Objekte.,WFLOW,source_extracted,table 9
+UniScribe,Asynchrone tiefe Medien-Analyse,"Wandelt bestehende Audio/Video-Dateien (lokal oder YouTube) extrem schnell in Text, Mindmaps und Q&As um. Unterstützt 63+ Sprachen.",backlog,"Wandelt bestehende Audio/Video-Dateien (lokal oder YouTube) extrem schnell in Text, Mindmaps und Q&As um. Unterstützt 63+ Sprachen.",WFLOW,source_extracted,table 2
+v0.dev,React/Tailwind UI-Komponenten,"Frontend-Entwickler, UI/UX-Designer",backlog,"Frontend-Entwickler, UI/UX-Designer",WFLOW,source_extracted,table 3
+Vellum AI,vellum.ai,LLM Ops,backlog,Prompt/version/evaluation governance for AI teams.,WFLOW,source_mentioned,
+Vellum AI,Enterprise AI-Teams,"LLM-Evaluierung, Prompt-Versioning, Governance",backlog,"LLM-Evaluierung, Prompt-Versioning, Governance",WFLOW,source_extracted,table 5
+Veo,deepmind.google/technologies/veo,Video AI,backlog,Google video generation; verify current access.,WFLOW,source_mentioned,
+Veo 3.1 (Google),Filmische Realität & natives Audio,"Fließende Transitions, perfektes Umgebungs-Audio & Dialoge",backlog,"Fließende Transitions, perfektes Umgebungs-Audio & Dialoge",WFLOW,source_extracted,table 8
+VSCO,vsco.co,Photo / Community,backlog,Photo filters/community; useful but mainstream.,NITW,source_mentioned,
+X-VPN,xvpn.io,Privacy / VPN,backlog,"VPN provider; keep as supporting resource, not endorsement.",NITW,source_mentioned,
+Zapier,zapier.com,Automatisierung von Software-APIs,backlog,Automatisierung von Software-APIs,"DRE, NITW, WFLOW",source_extracted,table 3
+Zapier,"KMU, Non-Tech-Operations","8000+ APIs, hochzuverlässig für starre Prozesse",backlog,"8000+ APIs, hochzuverlässig für starre Prozesse","DRE, NITW, WFLOW",source_extracted,table 5
+absurd.org,https://absurd.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,PPLX,raw_domain,auto-extracted domain
+activepieces.com,https://activepieces.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+afaqs.com,https://afaqs.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+allaboutcookies.org,https://allaboutcookies.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+ambitsoftware.com,https://ambitsoftware.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+apaya.com,https://apaya.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+apollo.io,https://apollo.io,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+apps.apple.com,https://apps.apple.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,"NITW, WFLOW",raw_domain,auto-extracted domain
+atlabs.ai,https://atlabs.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+atlasworkspace.ai,https://atlasworkspace.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+atriummedia.co.uk,https://atriummedia.co.uk,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+bentoml.com,https://bentoml.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+bioskepsis.ai,https://bioskepsis.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+Blackdot Solutions dark web OSINT guide,blackdotsolutions.com,OSINT guide,source_only,"Reference article/guide, not a primary tool entry.",V2,source_mentioned,
+blog.distart.de,https://blog.distart.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+blog.premai.io,https://blog.premai.io,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+blog.skylum.com,https://blog.skylum.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+bolta.ai,https://bolta.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+bpb.de,https://bpb.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+Breachsense dark web search engines guide,breachsense.com,OSINT guide,source_only,"Reference article, not a primary tool entry.",NITW,source_mentioned,
+capterra.com,https://capterra.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+checkmarx.com,https://checkmarx.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+checkpoint.com,https://checkpoint.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+chromewebstore.google.com,https://chromewebstore.google.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+cloudsek.com,https://cloudsek.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+contactinfo.com,https://contactinfo.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+crazyrouter.com,https://crazyrouter.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+cyberscoop.com,https://cyberscoop.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+dancumberlandlabs.com,https://dancumberlandlabs.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+DarknetSearch OSINT guide,darknetsearch.com,OSINT guide,source_only,Explanatory OSINT guide; not a primary website/tool entry.,V2,source_mentioned,
+dev.to,https://dev.to,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,"NITW, PPLX",raw_domain,auto-extracted domain
+digestafrica.com,https://digestafrica.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+discuss.ai.google.dev,https://discuss.ai.google.dev,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+divibuilderaddons.com,https://divibuilderaddons.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+dp.tech,https://dp.tech,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+ecml.at,https://ecml.at,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+elementor.com,https://elementor.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+elephas.app,https://elephas.app,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+emergent.sh,https://emergent.sh,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+en.wikipedia.org,https://en.wikipedia.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+eweek.com,https://eweek.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+firma.com,https://firma.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+flatlineagency.com,https://flatlineagency.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+flatma.com,https://flatma.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+forgenex.com,https://forgenex.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+forskcodingschool.com,https://forskcodingschool.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+georgielynne.co.uk,https://georgielynne.co.uk,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+getmocha.com,https://getmocha.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+glean.com,https://glean.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+greycoder.com,https://greycoder.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+gruender.de,https://gruender.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+guptadeepak.com,https://guptadeepak.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+Hacker News lesser-known Web APIs,news.ycombinator.com,Source / discussion,source_only,"Discussion/source material, not a standalone tool.",V2,source_mentioned,
+heytrendy.app,https://heytrendy.app,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+hughstephensblog.net,https://hughstephensblog.net,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+iatrox.com,https://iatrox.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+incastro.altervista.org,https://incastro.altervista.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+jeffsu.org,https://jeffsu.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+kaizenaiconsulting.com,https://kaizenaiconsulting.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+kilo.ai,https://kilo.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+kingroon.com,https://kingroon.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+kiteworks.com,https://kiteworks.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+lab.rosebud.ai,https://lab.rosebud.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+lablab.ai,https://lablab.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+law.gmu.edu,https://law.gmu.edu,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+lemon8-app.com,https://lemon8-app.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+lessonsindesign.com,https://lessonsindesign.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+libretexts.org,https://libretexts.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+littlemediaagency.com,https://littlemediaagency.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+localcrm.com,https://localcrm.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+LogRocket Weird Web APIs article,logrocket.com,Source / Web APIs,source_only,"Reference article/source material, not a primary tool entry.",V2,source_mentioned,
+lookfamed.de,https://lookfamed.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+lowcode.agency,https://lowcode.agency,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+mail.org,https://mail.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,PPLX,raw_domain,auto-extracted domain
+media.frag-den-staat.de,https://media.frag-den-staat.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+medianews4u.com,https://medianews4u.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+Medium articles,medium.com,Source-only,source_only,Citation/reference domain from source notes.,"NITW, WFLOW",source_mentioned,
+mindstudio.ai,https://mindstudio.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+mueller.legal,https://mueller.legal,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+myaccount.google.com,https://myaccount.google.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+nder.de,https://nder.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+netzpolitik.org,https://netzpolitik.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+news.slashdot.org,https://news.slashdot.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+newsmediaalliance.org,https://newsmediaalliance.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+nxcode.io,https://nxcode.io,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+omr.com,https://omr.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+open-vsx.org,https://open-vsx.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+orbilattice.com,https://orbilattice.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+pdf-reader.kdandoc.com,https://pdf-reader.kdandoc.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+pecollective.com,https://pecollective.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+pixflow.net,https://pixflow.net,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+play.google.com,https://play.google.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+postflow.app,https://postflow.app,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+postiz.com,https://postiz.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+pricepertoken.com,https://pricepertoken.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+producthunt.com,https://producthunt.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+publishers.org,https://publishers.org,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+quora.com,https://quora.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+Recorded Future OSINT article,recordedfuture.com,Source / OSINT,source_only,"Reference article, not a primary tool entry.",V2,source_mentioned,
+reddit.com,https://reddit.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,"NITW, WFLOW",raw_domain,auto-extracted domain
+scrimba.com,https://scrimba.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+seeles.ai,https://seeles.ai,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+selfcad.com,https://selfcad.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+shodan.io,https://shodan.io,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,PPLX,raw_domain,auto-extracted domain
+siliconflow.com,https://siliconflow.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+socialrails.com,https://socialrails.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+sourceforge.net,https://sourceforge.net,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+speakwiseapp.com,https://speakwiseapp.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+theboutiquecoo.com,https://theboutiquecoo.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+theresanaiforthat.com,https://theresanaiforthat.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+trustpilot.com,https://trustpilot.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+varonis.com,https://varonis.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+viralpitch.co,https://viralpitch.co,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+vorname.nachname,https://vorname.nachname,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+WebAsha dark web resources guide,webasha.com,OSINT guide,source_only,"Reference guide, not primary tool.",V2,source_mentioned,
+webnetz.de,https://webnetz.de,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,NITW,raw_domain,auto-extracted domain
+wiz.io,https://wiz.io,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+xda-developers.com,https://xda-developers.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,WFLOW,raw_domain,auto-extracted domain
+youtube.com,https://youtube.com,Source/reference domain,source_only,Raw extracted domain from source citations or examples; not promoted as a curated resource.,"NITW, WFLOW",raw_domain,auto-extracted domain
+12ft.io,12ft.io,Paywall bypass,excluded,Historical paywall-bypass service; exclude from main list due copyright/ToS circumvention.,"NITW, PPLX",source_mentioned,
+1ft.io,1ft.io,Paywall bypass,excluded,Paywall-bypass alias/adjoining service; exclude from main list.,NITW,source_mentioned,
+Abacus Market,(Darknet),Darknet market,excluded,Darknet marketplace; exclude entirely.,NITW,source_mentioned,
+Aged Reddit accounts with karma,(asset class),Deceptive marketing,excluded,Buying/using aged accounts for seeding is deceptive and platform-abusive.,"NITW, PPLX",policy_exclusion,
+Anna's Archive,annas-archive.org,Shadow library,excluded,Shadow-library aggregator; exclude because primary use is copyright infringement.,NITW,source_mentioned,
+Botnet resources,(category),Malware,excluded,Botnet/malware resources are outside scope.,"NITW, PPLX",policy_exclusion,
+Bypass Paywalls (Clean),github.com/bpc-clone,Paywall bypass,excluded,Browser extension designed to bypass paywalls; exclude from public list.,NITW,source_mentioned,
+Carding resources,(category),Fraud,excluded,Carding/fraud resources are outside legal/ethical scope.,"NITW, PPLX",policy_exclusion,
+Dark-web markets / top dark web market lists,(category),Darknet market,excluded,Category links to markets/trading; keep out of public list.,"NITW, PPLX",policy_exclusion,
+Darknet markets generic,(Darknet),Darknet market,excluded,Generic market category; exclude rather than link.,V2,source_mentioned,
+Docsity,docsity.com,Student document sharing,excluded,Document-sharing platform flagged for copyright/academic-integrity risk.,NITW,source_mentioned,
+fmhy.net,fmhy.net,Piracy-adjacent media index,excluded,Free-media index with legal risk; exclude from main list.,PPLX,source_mentioned,
+Ladder / 13ft,github.com/everywall/ladder,Paywall proxy,excluded,Self-hosted paywall-related proxy; exclude from main list.,NITW,source_mentioned,
+Leak marketplaces,(category),Leaks/fraud,excluded,Marketplaces for leaked data are not appropriate for inclusion.,"NITW, PPLX",policy_exclusion,
+LibGen / Library Genesis,libgen.is,Shadow library,excluded,Shadow library; primary use is unauthorized book/article access.,NITW,source_mentioned,
+Phishing kits / phishing services,(category),Phishing,excluded,Phishing resources are outside scope.,"NITW, PPLX",policy_exclusion,
+Pirate streaming / download indexes,(category),Piracy,excluded,Primary purpose is unauthorized access to copyrighted media.,"NITW, PPLX",policy_exclusion,
+Reddit ghostwriting & seeding tactic,(strategy),Deceptive marketing,excluded,"Astroturfing/deceptive influence tactic, not a responsible resource.","NITW, PPLX",policy_exclusion,
+RemovePaywall,removepaywall.com,Paywall bypass,excluded,Paywall-removal service; exclude from main list.,"NITW, PPLX",source_mentioned,
+Sci-Hub,sci-hub.se,Shadow library,excluded,Academic piracy via unauthorized access; exclude.,NITW,source_mentioned,
+Z-Library,z-lib.id,Shadow library,excluded,E-book shadow library; exclude due copyright/phishing risks.,NITW,source_mentioned,
