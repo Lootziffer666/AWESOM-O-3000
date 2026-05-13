@@ -1,0 +1,414 @@
+# Awesomo
+
+## 🤖 Künstliche Intelligenz, LLMs & Agents (Allgemein)
+
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) – Baue und führe Agenten aus, die du sehen, verstehen und denen du vertrauen kannst.
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) – Open Source Deep Research Alternative für private Daten.
+- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) – Raycast-Erweiterung, um GPT, Claude, Llama etc. kostenlos zu nutzen.
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) – Integrationen und Tools aus natürlicher Sprache erstellen.
+- [Tencent/Hunyuan-TurboS](https://github.com/Tencent/Hunyuan-TurboS) – CSS Repository für Hunyuan.
+- [sparkforge/durin](https://github.com/sparkforge/durin) – TypeScript Projekt.
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) – Schneller, Open-Source Document Parser.
+- [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) – Custom ComfyUI Nodes & Workflows.
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) – Open-Source-Plugins für Wissensarbeiter (Claude Cowork).
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) – Offizielles Verzeichnis für Claude Code Plugins.
+- [google/skills](https://github.com/google/skills) – Agent Skills für Google Produkte und Technologien.
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) – Beispielcode und Notebooks für Generative AI in der Google Cloud.
+- [google-gemini/gemini-image-editing-nextjs-quickstart](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart) – Native Bildgenerierung/-bearbeitung mit Gemini 2.0 & Next.js.
+- [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG) – ComfyUI Node für fortgeschrittene Hintergrundentfernung.
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) – Praktische Video-Diffusion.
+- [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) – Open-Source-Alternative zu Suno für KI-Musikgenerierung.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – Open-Source KI Voice Studio (Klonen, Diktieren).
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) – Lokale KI-Engine (LLMs, Vision, Audio) ohne GPU-Zwang.
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) – Lokale LLMs auf jedem Gerät ausführen.
+- [ollama/ollama](https://github.com/ollama/ollama) – Lade und führe Modelle wie LLaMA und Gemma lokal aus.
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) – Finde, benchmarke und installiere 170+ kostenlose Coding LLMs.
+- [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) – KI-Coding-Tools (kostenloser Zugang zu Claude Opus, GPT-5 etc.).
+- [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) – Offizielles Repo des aiXcoder-7B Code LLMs.
+- [mylxsw/aidea](https://github.com/mylxsw/aidea) – Flutter-App, die große Sprachmodelle und Bildgeneratoren integriert.
+- [adrianhajdin/project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) – Eigene ChatGPT-KI-Applikation zum Programmieren bauen.
+- [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) – Frontend GUI-Clients für ChatGPT, Claude und andere LLMs.
+- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) – Eigene Custom GPTs erstellen und auf Webseiten einbetten.
+- [misbahsy/chat-your-data-self-hosted](https://github.com/misbahsy/chat-your-data-self-hosted) – Chatbot auf eigenen Daten mit Self-Hosted LLMs bauen.
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) – Bekannte Deepfakes-Software.
+- [AyanbekDos/memoriki](https://github.com/AyanbekDos/memoriki) – LLM Wiki + MemPalace (Persönliche Wissensdatenbank).
+- [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) – LLM-gewartete persönliche Wissensdatenbank für Obsidian.
+- [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) – Eine sich selbst aufbauende/pflegende Wissensdatenbank.
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) – Geleakte System-Prompts (ChatGPT, Claude, Gemini etc.).
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) – Best-benchmarked Open-Source KI-Memory-System.
+- [mnfst/manifest](https://github.com/mnfst/manifest) – Smart Model Routing für Agenten (Kosten sparen).
+- [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) – Framework zum Bauen und Deployen intelligenter Agenten.
+- [ix-infrastructure/ix](https://github.com/ix-infrastructure/ix) – Systemintelligenz für Codebasen (für Menschen und KI).
+- [vladmarian20005/EmbeddedFinder](https://github.com/vladmarian20005/EmbeddedFinder) – Semantische Dateisuche für das lokale Dateisystem via KI.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Web UI zum lokalen Trainieren und Ausführen von Modellen.
+- [FuchengSu/WorldStereo](https://github.com/FuchengSu/WorldStereo) – Kameragesteuerte Videogenerierung und 3D-Rekonstruktion.
+- [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) – Multi-Modales Weltmodell (3D Welten simulieren).
+- [DevOpRohan/VisionApi](https://github.com/DevOpRohan/VisionApi) – Multimodales System für visuelle Queries und Objekterkennung.
+
+## ✨ KI-Coding, Vibe Coding, Claude & OpenClaw Ökosystem
+
+- [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) – Agent Swarm Intelligence (One Command -> Full Automation).
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) – Free AI gateway: one endpoint, 160+ providers, MCP/A2A.
+- [dkyazzentwatwa/chatgpt-skills](https://github.com/dkyazzentwatwa/chatgpt-skills) – Comprehensive library of skills to use for ChatGPT.
+- [Shubham60019/watchtower](https://github.com/Shubham60019/watchtower) – Echtzeit-Überwachung von KI-Coding-Agenten API-Traffic.
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) – Echtzeit-Nutzungsmonitor für Claude Code (mit Prognosen).
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) – Visueller, beispielbasierter Guide für Claude Code.
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) – KI Coding Workstation (Claude Code + Web UI + 7 AI CLIs + Headless Browser).
+- [Sstobo/Claude-Code-Game-Master](https://github.com/Sstobo/Claude-Code-Game-Master) – Total Conversion für Claude Code (RAG + RPG Rulesets).
+- [phodal/auto-dev](https://github.com/phodal/auto-dev) – KI-native Multi-Agenten-Entwicklungsplattform (Kotlin Multiplatform).
+- [Joentze/open-app-builder](https://github.com/Joentze/open-app-builder) – Open Source Vibe Coding Plattform ohne Cloud-Sandboxes.
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) – Dein persönlicher KI-Assistent für alle Plattformen ("The lobster way").
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) – Skill-Verzeichnis für OpenClaw.
+- [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel) – OpenClaw & Hermes Agent AI Management Dashboard.
+- [qingchencloud/clawapp](https://github.com/qingchencloud/clawapp) – Mobile Chat Client für OpenClaw AI Agents.
+- [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) – Trainiere Agenten einfach durch Sprechen.
+- [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) – Lossless Context Management (LCM) Plugin für OpenClaw.
+- [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw) – Multi-Agent OS für transparente Koordination via Matrix-Räumen.
+- [SumeLabs/clawra](https://github.com/SumeLabs/clawra) – OpenClaw als dein Begleiter.
+- [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D) – Open-Source 3D Engine, gebaut auf OpenClaw.
+- [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) – ClawTeam Fork für Multi-Agent-Schwarm-Koordination.
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) – Agenten-nativer LLM Router für OpenClaw (<1ms Routing).
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) – Autonomes Research-System (Idee zum Paper).
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) – Tiny, fast & deployable anywhere Agent.
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) – Agentisches Coden für Builder, die shippen (Rust).
+- [ConardLi/easy-agent](https://github.com/ConardLi/easy-agent) – Claude Code from scratch nachgebaut (zum Lernen).
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) – CLAUDE.md File, basierend auf Karpathys Beobachtungen.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) – Claude Code Skill: Spart Tokens, indem die KI wie ein Höhlenmensch spricht.
+- [ithiria894/claude-code-buddy-reroll](https://github.com/ithiria894/claude-code-buddy-reroll) – Claude Code/Buddy Companion Reroller.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) – Plugin, das Claudes Aktionen in Coding-Sessions speichert.
+- [emilycodes-cmd/claude-code-ollama-local](https://github.com/emilycodes-cmd/claude-code-ollama-local) – Claude Code lokal mit Ollama auf Windows ausführen.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) – Meta-Prompting & Context Engineering für Claude Code.
+- [lerim-dev/lerim-cli](https://github.com/lerim-dev/lerim-cli) – Background Memory Agent für Coding Workflows.
+- [open-webui/pipelines](https://github.com/open-webui/pipelines) – UI-agnostisches OpenAI-kompatibles Plugin Framework.
+- [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) – Systematisches "Vibe Coding" Tutorial.
+- [humanstack/vibe-coding-template](https://github.com/humanstack/vibe-coding-template) – Full-Stack-Template fürs Vibe Coding.
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) – Open-Source Vibe Coding Plattform auf dem Cloudflare Stack.
+- [Aestheticsuraj234/vibecode-playground](https://github.com/Aestheticsuraj234/vibecode-playground) – Fullstack Web-basierte IDE für lokales Ollama Coding.
+- [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem) – KI-Software-Team für Claude Code.
+- [funny-vibes/agent-vibes](https://github.com/funny-vibes/agent-vibes) – Unified Agent Gateway für Claude Code & Cursor IDE.
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) – Vibe Coding Projekt.
+- [DeadWaveWave/demo2apk](https://github.com/DeadWaveWave/demo2apk) – Vibe Coding Ideen direkt in APKs umwandeln.
+- [kevinpbuckley/VibeUE](https://github.com/kevinpbuckley/VibeUE) – Unreal Engine Vibe Coding Tool.
+- [tiann/hapi](https://github.com/tiann/hapi) – App für Claude Code, Codex, Gemini zum "Vibe Coden".
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) – Best Practices vom Vibe Coding.
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) – Webseiten mit einem Befehl klonen.
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) – Lokale 24/7 Cowork-App für OpenClaw, Hermes, Claude Code.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) – Rust-basierter Client.
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) – Claude Code gratis Interface.
+- [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) – Claude Code Dashboard.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) – Marketing-Skills (SEO, Copywriting).
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) – Autonomer Entwicklungs-Loop für Claude Code.
+- [memvid/memvid](https://github.com/memvid/memvid) – Memory Layer für KI-Agenten.
+- [multica-ai/multica](https://github.com/multica-ai/multica) – Open-Source Managed Agents Plattform.
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) – Sandbox für KI-Agenten.
+- [FulAppiOS/Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) – Gamifiziertes Dashboard zur Überwachung.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) – KI-Produktivitätsstudio.
+- [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox) – Persönliche KI-Toolbox.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) – Workspace für Multi-Agenten-Zusammenarbeit.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) – Open-Source KI-Agent.
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) – Open-source Agent OS.
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) – Tool zum Testen von Prompts und Agenten.
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) – Framework zum Programmieren von LLMs.
+- [get-zeked/perplexity-super-skills](https://github.com/get-zeked/perplexity-super-skills) – Super-Skills für Perplexity.
+- [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) – Strukturierte Latents für 3D-Generierung.
+- [Marktechpost/AI-Agents-Projects-Tutorials](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) – Multi-Agenten-Systeme.
+
+## 🎮 Gaming, Steam & Emulation
+
+- [PhilipK/BoilR](https://github.com/PhilipK/BoilR) – Synchronisiert Spiele von anderen Plattformen in deine Steam-Bibliothek.
+- [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) – Decky Loader Plugin für Steam Deck (Epic, GOG etc.).
+- [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages) – Automatisierte Aktivierung kostenloser Steam-Pakete.
+- [shugi12345/non-steam-uploader](https://github.com/shugi12345/non-steam-uploader) – Upload und Wartung von Non-Steam-Games auf Steam.
+- [MBaliver/cooplauncher](https://github.com/MBaliver/cooplauncher) – Game Launcher für Windows ("Steam Remote Play Together").
+- [htdt/godogen](https://github.com/htdt/godogen) – Autonome Spieleentwicklung für Godot & Bevy.
+- [PixCats/SteamWidget](https://github.com/PixCats/SteamWidget) – Steam Game Launcher Widget für Windows Desktop.
+- [weter11/SteamFlow_ext](https://github.com/weter11/SteamFlow_ext) & [SteamFlow](https://github.com/weter11/SteamFlow) – Leichtgewichtige Steam Launcher/Clients in Rust.
+- [HasibulHasan098/Depo-Tool](https://github.com/HasibulHasan098/Depo-Tool) – Open-Source Alternative zu Steam Tools.
+- [Alia5/steaminputdb.com](https://github.com/Alia5/steaminputdb.com) – SteamInput Controller-Layouts.
+- [mugenmono/steamDeckThemes.Chromahon-CM](https://github.com/mugenmono/steamDeckThemes.Chromahon-CM) / [-SM](https://github.com/mugenmono/steamDeckThemes.Chromahon-SM) / [-QAM](https://github.com/mugenmono/steamDeckThemes.Chromahon-QAM) – Theme Suite für Steam Deck.
+- [WingSky2022/SteamAPI](https://github.com/WingSky2022/SteamAPI) – Steam Game Collection Management API.
+- [webporting/Untitled-Goose-Game](https://github.com/webporting/Untitled-Goose-Game) – Web-Port des Untitled Goose Game.
+- [anthony-hyo/aqw-mobile](https://github.com/anthony-hyo/aqw-mobile) – AdventureQuest Worlds Mobile.
+- [portal305/Ember](https://github.com/portal305/Ember) – Retro Gaming Frontend für Android.
+
+## 🛠️ Android Modding, APKs & Reverse Engineering
+
+- [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) – Decompile, recompile, sign APK.
+- [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) – Android Application Installer für Windows.
+- [ba0gu0/520apkhook](https://github.com/ba0gu0/520apkhook) – Attach the Android remote control APK to a regular app.
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) – OSINT Tool zum Extrahieren von IPs/URLs aus APKs.
+- [nishal21/NekoDroid](https://github.com/nishal21/NekoDroid) – Browser-nativer Android-Emulator (WebAssembly).
+- [shyam-pareek/apk-translate](https://github.com/shyam-pareek/apk-translate) – Python-Skript zur Übersetzung von APK-Strings.
+- [vishwesh007/HSPatcher](https://github.com/vishwesh007/HSPatcher) – One-Click Universal Android APK Patcher.
+- [ameermuawiya/Apk-Editor-Translate-Plugin](https://github.com/ameermuawiya/Apk-Editor-Translate-Plugin) – Translate Plugin für APK Editor Pro.
+- [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) – Bypass für APK-Signaturen und Integritätschecks.
+- [DouglasFreshHabian/APKCleaner](https://github.com/DouglasFreshHabian/APKCleaner) – Reversible Android Debloat Engine.
+- [TheQmaks/justapk](https://github.com/TheQmaks/justapk) – Jede APK über den Package Name herunterladen.
+- [opengapps/apkcrawler](https://github.com/opengapps/apkcrawler) – Automatischer APK-Retriever.
+- [dkajan19/NotiFixer](https://github.com/dkajan19/NotiFixer) – Android Utility für persistente Benachrichtigungen.
+- [monsivamon/revanced_extended_anddea-apk](https://github.com/monsivamon/revanced_extended_anddea-apk) – Auto-Build System für Anddeas RVX Patches.
+- [horoni/Android-ImGui-Mod-Menu](https://github.com/horoni/Android-ImGui-Mod-Menu) – Source Code für Android ImGui Mod Menüs.
+- [Andrey4ik21pro1/apkgit](https://github.com/Andrey4ik21pro1/apkgit) – Material 3 Client für App-Updates via GitHub.
+- [openatx/android-uiautomator-server](https://github.com/openatx/android-uiautomator-server) – UI Automator Server für Android.
+
+## 📱 Android Entwicklung, APIs & Clients
+
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) – Turn your Python application into an Android APK.
+- [fossasia/open-event-droidgen](https://github.com/fossasia/open-event-droidgen) – Open Event Android App Generator.
+- [justkawal/UI](https://github.com/justkawal/UI) – Flutter Apps Collection.
+- [ziadOUA/zCard](https://github.com/ziadOUA/zCard) – App that stores loyalty, membership and gift cards.
+- [mulkymalikuldhrs/opencode-android](https://github.com/mulkymalikuldhrs/opencode-android) – OpenCode Android Client (AI Chat, Terminal, Code Editor).
+- [sunnat629/openai-android](https://github.com/sunnat629/openai-android) – OpenAI API Client für Android (Coroutines).
+- [mardillu/OpenAI-Client-Android](https://github.com/mardillu/OpenAI-Client-Android) – Lightweight OpenAI API Client für Android.
+- [darko1002001/android-rest-client](https://github.com/darko1002001/android-rest-client) – Einfache REST API Client Library.
+- [android/architecture-samples](https://github.com/android/architecture-samples) – Offizielle Sammlung von Android Architektur-Tools.
+- [AndroidWithRossyn/android-architecture-explorer-zip-source-code-collection](https://github.com/AndroidWithRossyn/android-architecture-explorer-zip-source-code-collection) – Kostenlose Android App Source Codes.
+- [Syedovaiss/Android-Quick-Start](https://github.com/Syedovaiss/Android-Quick-Start) – Ready-to-use Android Template (MVVM, Compose, Hilt).
+- [kekegdsz/android-gradle-smart-build](https://github.com/kekegdsz/android-gradle-smart-build) – Android Fast Builds.
+- [silvadev13/ApkBuilder](https://github.com/silvadev13/ApkBuilder) – Lightweight Android Project Builder CLI.
+- [imandolatkia/Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) – Custom Themes mit dynamischen Ripple-Animationen.
+- [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) – Macht das Android-Gerät zum High-Quality PC-Mikrofon.
+- [Musheer360/SwiftSlate](https://github.com/Musheer360/SwiftSlate) – Android Accessibility Service für KI-Texttransformation.
+- [PsProsen-Dev/OpenClaw-On-Android](https://github.com/PsProsen-Dev/OpenClaw-On-Android) – Android Phone zum 24/7 AI-Server machen (Termux).
+- [AndroidWithRossyn/Android-Notes-App](https://github.com/AndroidWithRossyn/Android-Notes-App) & [KidsDrawing](https://github.com/AndroidWithRossyn/KidsDrawing) – App Templates.
+- [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) – Sammlung von Flutter & Dart Tipps.
+- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) – Kostenlose Flutter UI Templates.
+- [huextrat/TheGorgeousLogin](https://github.com/huextrat/TheGorgeousLogin) – Schöne Login-Seite in Flutter.
+- [OthmaneBlial/rustdroid](https://github.com/OthmaneBlial/rustdroid) – Schnelle Android-Emulator-Orchestrierung in Rust.
+- [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Android ohne Root debloaten.
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) – Android Echtzeit-Display-Steuerung auf dem PC.
+- [airbnb/lottie-android](https://github.com/airbnb/lottie-android) – After Effects Animationen nativ rendern.
+- [chrisbanes/haze](https://github.com/chrisbanes/haze) – Background Blurring für Compose Multiplatform.
+- [st235/SwipeToActionLayout](https://github.com/st235/SwipeToActionLayout) – Layout für "Swipe-to-Reveal" Verhalten.
+- [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) – Große Liste von Android-Ressourcen.
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) – Android-App für automatisierte Klicks.
+- [SkynetLabs/homescreen](https://github.com/SkynetLabs/homescreen) – Dezentralisierter Homescreen-Ansatz.
+- [shinhyo/Compose-BreakingBad](https://github.com/shinhyo/Compose-BreakingBad) – Jetpack Compose Projekt.
+- [vipulasri/JetInstagram](https://github.com/vipulasri/JetInstagram) – Instagram UI Clone in Jetpack Compose.
+- [lukejacksonn/homescreen](https://github.com/lukejacksonn/homescreen) – iOS im Web nachgebaut.
+- [Immenge/WatchSpringboard-Prototype](https://github.com/Immenge/WatchSpringboard-Prototype) – Apple Watch-Layout als Prototyp.
+- [erickbogarin/ios-homescreen](https://github.com/erickbogarin/ios-homescreen) – iOS-Homescreen-Klon im Web.
+- [nemomobile/lipstick-colorful-home](https://github.com/nemomobile/lipstick-colorful-home) – Homescreen für Nemo Mobile.
+- [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) – Plex Companion App für Homescreens.
+- [nemomobile-ux/glacier-home](https://github.com/nemomobile-ux/glacier-home) – Homescreen für die Glacier UX.
+- [ineffablesam/Weather-App-Flutter-Bloc](https://github.com/ineffablesam/Weather-App-Flutter-Bloc) – Flutter Wetter-App.
+- [ensorcell/KLWP](https://github.com/ensorcell/KLWP) – Custom Homescreens für Android.
+- [Hash-Studios/Prism](https://github.com/Hash-Studios/Prism) – Flutter Wallpaper-App.
+- [quaintdev/anchor](https://github.com/quaintdev/anchor) – Handcodierter Android Homescreen.
+- [StringMon/homescreenarcade](https://github.com/StringMon/homescreenarcade) – Spieleplattform für den Homescreen.
+- [TitanNano/Homescreen](https://github.com/TitanNano/Homescreen) – Launcher, der nach App-Nutzung sortiert.
+- [openhomescreen/pwa-market](https://github.com/openhomescreen/pwa-market) – Startrampe für PWAs.
+- [cbosoft/SHAUN](https://github.com/cbosoft/SHAUN) – Android Launcher im Terminal-Stil.
+- [01satria/LauncherAppv2](https://github.com/01satria/LauncherAppv2) – Minimalistischer Launcher v2.
+- [shubh72010/VibeLauncher](https://github.com/shubh72010/VibeLauncher) – Ein privates Homescreen Projekt.
+- [fqdb/Hybrid-Homescreen](https://github.com/fqdb/Hybrid-Homescreen) – Ein weiterer Launcher.
+- [digitalfabrik/accessibility-launcher](https://github.com/digitalfabrik/accessibility-launcher) – Für Menschen mit kognitiven Einschränkungen.
+- [cunnj/Activities](https://github.com/cunnj/Activities) – Tool zum Starten versteckter Aktivitäten.
+- [tytydraco/NoLauncher](https://github.com/tytydraco/NoLauncher) – Launcher "mit nichts".
+- [DagW/FragmentHomescreen](https://github.com/DagW/FragmentHomescreen) – Basierend auf ViewPager und Fragments.
+- [Collinux/minimalist-launcher](https://github.com/Collinux/minimalist-launcher) – Stark reduzierter Launcher.
+- [amirzaidi/Launcher3](https://github.com/amirzaidi/Launcher3) – "Rootless Pixel Launcher" Fork.
+- [HenriDellal/emerald](https://github.com/HenriDellal/emerald) – Einfach und anpassbar.
+- [klinker-apps/Android-Blur-Launcher](https://github.com/klinker-apps/Android-Blur-Launcher) – Blur Launcher.
+- [klinker24/launcher3](https://github.com/klinker24/launcher3) – Gradle-Build für Launcher3.
+- [finnmglas/Launcher](https://github.com/finnmglas/Launcher) – Ablenkungsfreier Android-Homescreen.
+- [jrpie/launcher](https://github.com/jrpie/launcher) – Ablenkungsfreier Launcher.
+
+## 🎨 Webentwicklung, UI & Design
+
+- [ghosh/uiGradients](https://github.com/ghosh/uiGradients) – Beautiful colour gradients for design and code.
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) – Web development for the rest of us.
+- [elevenlabs/ui](https://github.com/elevenlabs/ui) – Component library build multimodal agents faster.
+- [mui/material-ui](https://github.com/mui/material-ui) – Material UI React component library.
+- [creativetimofficial/ui](https://github.com/creativetimofficial/ui) – Open-source components, blocks, and AI agents.
+- [dashersw/gea](https://github.com/dashersw/gea) – Reactive JavaScript UI framework. No virtual DOM.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) – Accessible components and code distribution platform.
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) – KI-nativer Design-Editor (Figma Alternative).
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) – Das Generative UI Framework von Vercel.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) – Open-Source LLM-Friendly Web Crawler.
+- [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs) – Scraping-APIs für Entwickler.
+- [omarabbas32/StoreBuilder](https://github.com/omarabbas32/StoreBuilder) – Full-Stack Web App für eigene Stores.
+- [raffieeey/Flet-Visual-Builder](https://github.com/raffieeey/Flet-Visual-Builder) – Drag-and-Drop UI Builder für Flet Apps.
+- [SatishParmar1/page_navigation_transition](https://github.com/SatishParmar1/page_navigation_transition) – Flutter Package für Transitionen.
+- [marioprieta/react-native-theme-transition](https://github.com/marioprieta/react-native-theme-transition) – Theme Transitions für React Native.
+- [chenglou/pretext](https://github.com/chenglou/pretext) – Schnelle Textmessung und Layouts.
+- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) – Drag & Drop Page Builder in Vanilla JavaScript.
+- [moumen-soliman/uitripled](https://github.com/moumen-soliman/uitripled) – Production-ready UI Blocks (shadcn/ui).
+- [olliethedev/ui-builder](https://github.com/olliethedev/ui-builder) – No-code UI-Builder für React.
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) – Headless Komponenten-Builder für Svelte.
+- [Pagedraw/pagedraw](https://github.com/Pagedraw/pagedraw) – UI Builder für React Web Apps.
+- [SarthakRawat-1/sketchbook-ui](https://github.com/SarthakRawat-1/sketchbook-ui) – UI-Bibliothek im handgezeichneten Look.
+- [glincker/thesvg](https://github.com/glincker/thesvg) – 5.880+ Marken-SVG-Icons für Entwickler.
+- [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) – Utility-first CSS Framework.
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) – CSS-Animationen.
+- [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) – Einfache Animationen für React.
+- [google/fonts](https://github.com/google/fonts) – Google Fonts.
+- [luongnv89/sleek-ui](https://github.com/luongnv89/sleek-ui) – Designsysteme für KI-Agenten.
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) – Formatspezifikation visuelle Identitäten.
+- [horprogs/Just-validate](https://github.com/horprogs/Just-validate) – Moderne Form-Validation.
+- [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) – Image Hosting.
+- [kivy/kivy](https://github.com/kivy/kivy) – Open-Source UI Framework in Python.
+- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) – Web-Apps im Look von Betriebssystemen.
+- [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) – Coole Web-Effekte.
+- [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) – Web-Apps ohne Registrierung.
+- [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) – Styled Components Ressourcen.
+- [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) – 100 moderne CSS-Buttons.
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Kostenlose Stock-Medien.
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) – Generative Art.
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) – Design-Ressourcen.
+- [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) – Designsysteme Sammlung.
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) – Design-Tools.
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) – React Komponenten.
+- [standard/standard](https://github.com/standard/standard) – JavaScript Style Guide.
+- [preactjs/preact](https://github.com/preactjs/preact) – 3kB React-Alternative.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) – 1kB JS-Framework.
+- [argyleink/open-props](https://github.com/argyleink/open-props) – CSS Custom Properties.
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) – Webbrowser für Responsive Development.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) – Tailwind CSS Komponenten-Bibliothek.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) – 6000+ kostenlose SVG-Icons.
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) – SVG-Icons der Tailwind-Macher.
+- [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) – Bootstrap Design Framework.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) – HTML/CSS/JS-Framework.
+- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) – Persönliche Webseite für GitHub-Nutzer.
+
+## 🚆 Transit, GIS & Routing
+
+- [clarelgibson/transit](https://github.com/clarelgibson/transit) – Reisezeit und Distanz berechnen.
+- [mfdz/transit-stops-osm-comparison](https://github.com/mfdz/transit-stops-osm-comparison) – Vergleich von Transit-Daten mit OpenStreetMap.
+- [transitland/transitland-atlas](https://github.com/transitland/transitland-atlas) – Offenes Verzeichnis für Mobilitäts-Feeds.
+- [GIScience/openrouteservice-js](https://github.com/GIScience/openrouteservice-js) – JS API für Openrouteservice.
+- [NatLabRockies/mappymatch](https://github.com/NatLabRockies/mappymatch) – Pure-Python Package für Map Matching.
+- [grote/Transportr](https://github.com/grote/Transportr) – Öffentlicher Nahverkehrs-Assistent.
+- [motis-project/motis-fptf-client](https://github.com/motis-project/motis-fptf-client) – MOTIS API Client.
+- [valhalla/valhalla](https://github.com/valhalla/valhalla) – Routing Engine für OpenStreetMap.
+- [mthh/routingpy](https://github.com/mthh/routingpy) – Python Library für Routing-APIs.
+- [google/transit](https://github.com/google/transit) – Googles Transit-Ressourcen.
+- [motis-project/nigiri](https://github.com/motis-project/nigiri) – Next Generation Routing.
+
+## 🖥️ Desktop, Tools & Self-Hosting
+
+- [tw93/Pake](https://github.com/tw93/Pake) – Turn any webpage into a desktop app.
+- [devohmycode/NoteUI](https://github.com/devohmycode/NoteUI) – Note-taking application with WinUI 3.
+- [MaheshPawaar/backend-toolkit](https://github.com/MaheshPawaar/backend-toolkit) – Client-side Toolsammlung für Backend-Devs.
+- [PinchToDebug/EverythingQuickSearch](https://github.com/PinchToDebug/EverythingQuickSearch) – C# Quick Search.
+- [CrowKing63/Orbital](https://github.com/CrowKing63/Orbital) – C# Projekt.
+- [MoonMonet/Translator](https://github.com/MoonMonet/Translator) – Minimalistischer Desktop-Übersetzer.
+- [FengZeng/soia](https://github.com/FengZeng/soia) – High-Performance Media Player.
+- [rishabhbhartiya/GitCity](https://github.com/rishabhbhartiya/GitCity) – GitHub Contributions als 3D-Stadt.
+- [increpare/PuzzleScript](https://github.com/increpare/PuzzleScript) – HTML5 Puzzle Game Engine.
+- [MangoLion/stretchystudio](https://github.com/MangoLion/stretchystudio) – FOSS 2D Animationstool.
+- [Just-Haze/opensnap](https://github.com/Just-Haze/opensnap) – TypeScript Projekt.
+- [usebruno/bruno](https://github.com/usebruno/bruno) – Open-Source IDE für APIs.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) – Riesige Liste kostenloser APIs.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Self-hosted Entwicklungs-Service.
+- [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) – UI Tool für Git.
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) – Zero-Server Code Intelligence Engine.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) – Dashboard für Self-Hosting.
+- [Leantime/leantime](https://github.com/Leantime/leantime) – Projektmanagement.
+- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) – Persönliche Wissensdatenbank.
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) – CLI Tool für HTML Downloads.
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) – App-Launcher für Windows.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Guide fürs Self-Hosting.
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) – Docker Compose Beispiele.
+- [zed-industries/zed](https://github.com/zed-industries/zed) – High-Performance Multiplayer Code-Editor.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) – Agentisches Terminal.
+- [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) – Tools für Windows.
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) – Docker Compose Beispiele.
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – Raspberry Pi Ressourcen.
+
+## 📚 Lernen, Linguistik & Diverses
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – Programmierbücher.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – System Design lernen.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Programmieren lernen durch Nachbauen.
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) – Neuronale Netze Tutorial.
+- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) – Playbook für Deep Learning Modelle.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) – Markdown mit Superkräften.
+- [devmount/GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings) – Toolkit für deutsche Textkorpora.
+- [divkakwani/webcorpus](https://github.com/divkakwani/webcorpus) – Große Textkorpora durch Web Crawling.
+- [nickduran/align2-linguistic-alignment](https://github.com/nickduran/align2-linguistic-alignment) – Linguistische Alignment-Analysen.
+- [M4t1ss/parallel-corpora-tools](https://github.com/M4t1ss/parallel-corpora-tools) – Tools zum Filtern von Korpora.
+- [dariusk/corpora](https://github.com/dariusk/corpora) – Datensätze für Bots.
+- [acoli-repo/conll](https://github.com/acoli-repo/conll) – Tools zur Verarbeitung von TSV/CoNLL.
+- [Rauschii/DysListGerman](https://github.com/Rauschii/DysListGerman) – Linguistisch annotierte Legasthenie-Fehler.
+- [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) – Ressourcen zum Gründen.
+- [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – Orte, um Startups zu posten.
+- [mezod/awesome-indie](https://github.com/mezod/awesome-indie) – Für unabhängige Entwickler.
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) – Remote-Jobs.
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) – Softwarearchitektur.
+- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) – Low Level Design.
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) – System Design Interviews.
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) – Java Frameworks.
+- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) – Monorepos.
+- [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) – Elasticsearch.
+- [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) – Entwickler-Roadmaps.
+- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) – Testautomatisierung.
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) – Code Guidelines.
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) – Dokumentations-Vorlagen.
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) – GitHub Profile READMEs.
+- [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) – Kreative Profil-READMEs.
+- [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) – Lustige Kommentare im Code.
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) – Game Development Ressourcen.
+- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Windows Optimierung.
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) – Launcher für Desktop.
+- [Shpigford/chops](https://github.com/Shpigford/chops) – macOS-App für KI-Skills.
+- [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) – macOS KI-Quotas.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) – Desktop-Assistent für Claude Code etc.
+- [m1911star/affine-client](https://github.com/m1911star/affine-client) – Client für AFFiNE.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) – 3D-Bibliothek.
+- [InvoxiPlayGames/EricLauncher](https://github.com/InvoxiPlayGames/EricLauncher) – Launcher für Epic Games Store.
+- [namanshergill/diohub](https://github.com/namanshergill/diohub) – GitHub Mobile-Client.
+- [frogermcs/MultiModuleGithubClient](https://github.com/frogermcs/MultiModuleGithubClient) – Android GitHub-Client.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) – Git-Client.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) – CS-Paper.
+
+## 🌟 Die großen "Awesome" & Meta-Listen
+
+- [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) – A curated list of awesome Android UI/UX libraries.
+- [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) – Deutsche Piraterie-Seiten.
+- [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) – Wichtige Repos für Entwickler.
+- [wssun/SourceCodeSearch](https://github.com/wssun/SourceCodeSearch) – Source Code Suchmaschinen.
+- [slavingia/skills](https://github.com/slavingia/skills) – Skills für Minimalist Entrepreneurs.
+- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline Toolkits.
+- [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) – UI Styleguides.
+- [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) – RESTful APIs.
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) – OpenAPI Spezifikations-Repo.
+- [genkit-ai/genkit-by-example](https://github.com/genkit-ai/genkit-by-example) – Genkit Beispiele.
+- [jnv/lists](https://github.com/jnv/lists) – Die definitive Liste aller Awesome-Listen.
+- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) – Repos voller Ressourcen.
+- [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) – Kostenlose Apps für PC & Mobile.
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) – Open-Source Web- & Mobile-Apps.
+- [von-development/awesome-LangGraph](https://github.com/von-development/awesome-LangGraph) – LangChain & LangGraph Ökosystem.
+- [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) – Django REST.
+- [androiddevnotes/awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) – Jetpack Compose Apps.
+- [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) – Digitale Typografie.
+- [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – Executable Packing.
+- [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) – JS-Frameworks und UI-Kits.
+- [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm) – Lokale LLMs.
+- [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) – UI Component Libraries.
+- [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit) – Transit-APIs.
+- [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) – RESTful API Architektur.
+- [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) – Codex-Skills.
+- [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) – Open WebUI Plugins.
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) – Skills für Claude Code.
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) – Cursor AI Editor.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) – DESIGN.md Files.
+- [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) – KI-Sidehustles.
+- [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) – Geleakte Prompts.
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) – Kostenlose GPTs.
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) – Open-Source-KI.
+- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) – GPT Image Prompts.
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) – Gemini-Bildgenerierung.
+- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) – LLM-APIs.
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) – Vibe Coding.
+- [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) – Action Recognition.
+- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) – LLM Tutorials.
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) – MCP Server.
+- [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) – Open-Source GPT-Projekte.
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) – ChatGPT Liste.
+- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) – ChatGPT API.
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) – Prompts aus GPT Store.
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) – Generative KI-Anwendungen.
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) – Generative KI-Forschung.
+- [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) – Kotlin Apps.
+- [Psyhackological/AAA](https://github.com/Psyhackological/AAA) – FOSS Android-Apps.
