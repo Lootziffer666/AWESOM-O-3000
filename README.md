@@ -20,7 +20,7 @@
 ![Verbotenes Wissen](https://img.shields.io/badge/Verbotenes_Wissen-108_Websites-ff4500?style=flat-square&logo=firefox&logoColor=white)
 ![Kategorien](https://img.shields.io/badge/Kategorien-22-818cf8?style=flat-square)
 ![Roboter-Selbstbewusstsein](https://img.shields.io/badge/Roboter_Selbstbewusstsein-kritisch-red?style=flat-square&logo=probot&logoColor=white)
-[![Besucher](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLootziffer666%2FAWESOM-O-3000&count_bg=%2339FF14&title_bg=%230d1117&icon=github&icon_color=%23ffffff&title=Besucher&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Besucher](https://visitor-badge.laobi.icu/badge?page_id=Lootziffer666.AWESOM-O-3000&left_color=0d1117&right_color=39ff14&left_text=Besucher)](https://visitor-badge.laobi.icu)
 
 </div>
 

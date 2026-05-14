@@ -20,7 +20,7 @@
 ![Forbidden Knowledge](https://img.shields.io/badge/Forbidden_Knowledge-108_Websites-ff4500?style=flat-square&logo=firefox&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-22-818cf8?style=flat-square)
 ![Robot Self-Awareness](https://img.shields.io/badge/Robot_Self--Awareness-critical-red?style=flat-square&logo=probot&logoColor=white)
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLootziffer666%2FAWESOM-O-3000&count_bg=%2339FF14&title_bg=%230d1117&icon=github&icon_color=%23ffffff&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lootziffer666.AWESOM-O-3000&left_color=0d1117&right_color=39ff14&left_text=Visitors)](https://visitor-badge.laobi.icu)
 
 </div>
 
