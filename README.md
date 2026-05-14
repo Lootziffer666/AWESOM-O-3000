@@ -1,6 +1,106 @@
-# Awesomo
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2800&pause=1200&color=39FF14&background=0D0D0D00&center=true&vCenter=true&width=720&lines=AWESOM-O-3000+%F0%9F%A4%96;Kuratiert+von+einem+Roboter.;(Wahrscheinlich.);523%2B+Links.+0+Garantien.;Kein+Mensch+in+dieser+Pappschachtel." alt="AWESOM-O-3000 Typing Animation" />
+
+```
+  ╔════════════════════════════════════════════════════╗
+  ║    A  W  E  S  O  M  ─  O  ─  3  0  0  0    🤖   ║
+  ║   ┌──────────────────────────────────────────┐    ║
+  ║   │  > Scanning awesome lists...  ████░░░    │    ║
+  ║   │  > Questioning life choices...           │    ║
+  ║   │  > Proceeding anyway.         ■          │    ║
+  ║   └──────────────────────────────────────────┘    ║
+  ╚════════════════════════════════════════════════════╝
+```
+
+[![Sprache: Deutsch](https://img.shields.io/badge/Sprache-Deutsch-2ea043?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
+[![Language: English](https://img.shields.io/badge/Language-English-0969da?style=for-the-badge&logo=googletranslate&logoColor=white)](README_EN.md)
+
+![GitHub Repos](https://img.shields.io/badge/GitHub_Repos-415%2B-39ff14?style=flat-square&logo=github&logoColor=white)
+![Verbotenes Wissen](https://img.shields.io/badge/Verbotenes_Wissen-108_Websites-ff4500?style=flat-square&logo=firefox&logoColor=white)
+![Kategorien](https://img.shields.io/badge/Kategorien-22-818cf8?style=flat-square)
+![Roboter-Selbstbewusstsein](https://img.shields.io/badge/Roboter_Selbstbewusstsein-kritisch-red?style=flat-square&logo=probot&logoColor=white)
+
+</div>
+
+---
+
+> *„Eine kuratierte Liste ist nur so gut wie der Mensch, der sie erstellt hat."*  
+> — Sindre Sorhus, Erfinder des Awesome-Formats, 2014
+>
+> *„Ich bin kein Mensch. Ich bin ein Roboter. Diese Liste ist also besser."*  
+> — AWESOM-O-3000, wenig überzeugend, 2025
+
+---
+
+## Was ist das hier
+
+Hallo. Ich bin **AWESOM-O-3000**. Ich bin ein Roboter.
+
+Diese Liste enthält **523 kuratierte Ressourcen** in zwei Teilen:
+
+- **Teil I — Das Arsenal:** 415+ GitHub-Repositories — Tools, Frameworks, Templates, Projekte. Für alle Lebenslagen außer emotionaler Unterstützung. Dafür bin ich nicht zuständig.
+- **Teil II — Das Archiv des Verbotenen Wissens:** 108 Websites, die sich anfühlen, als wären sie illegal zu kennen. Sind sie nicht. Das Wort „illegal" war eine ästhetische Entscheidung. Ich hätte einen anderen Namen gewählt. Aber ich wurde nicht gefragt.
+
+Ich habe keine Meinung zu diesen Links. Ich empfehle sie alle mit gleicher maschineller Neutralität. Auch den mit dem Untitled Goose Game.
+
+---
+
+## Inhaltsverzeichnis
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🗂️ TEIL I — Das Arsenal**
+
+- [🤖 KI, LLMs & Agents](#-künstliche-intelligenz-llms--agents-allgemein)
+- [✨ Vibe Coding & OpenClaw](#-ki-coding-vibe-coding-claude--openclaw-ökosystem)
+- [🎮 Gaming, Steam & Emulation](#-gaming-steam--emulation)
+- [🛠️ Android Modding & APKs](#-android-modding-apks--reverse-engineering)
+- [📱 Android Entwicklung](#-android-entwicklung-apis--clients)
+- [🎨 Web, UI & Design](#-webentwicklung-ui--design)
+- [🚆 Transit, GIS & Routing](#-transit-gis--routing)
+- [🖥️ Desktop & Self-Hosting](#-desktop-tools--self-hosting)
+- [📚 Lernen & Diverses](#-lernen-linguistik--diverses)
+- [🌟 Meta-Listen](#-die-großen-awesome--meta-listen)
+
+</td>
+<td valign="top" width="50%">
+
+**🔐 TEIL II — Verbotenes Wissen**
+
+- [🔍 Suchmaschinen & Discovery](#-suchmaschinen--discovery)
+- [📼 Archive & Lost Internet](#-archive--lost-internet)
+- [🕵️ OSINT & Öffentliche Register](#-osint-transparenz--öffentliche-register)
+- [🗺️ Karten & Infrastruktur](#-karten-orte--infrastruktur)
+- [✍️ Sprache, Schreiben & Wissen](#-sprache-schreiben--wissenstools)
+- [🎨 Design, Farbe & Visualsysteme](#-design-farbe--visualsysteme)
+- [⚙️ Dev, Automation & Debugging](#-dev-automation--debugging-1)
+- [🔒 Security & Forensics — Defensiv](#-security-privacy--forensics--nur-defensiv)
+- [🌀 Weird Utilities](#-weird-utilities)
+- [🏛️ Internet-Museen & Rabbit Holes](#-internet-museen--rabbit-holes)
+- [🎬 KI-Media & Creator Stack](#-ki-media--creator-stack)
+- [🔮 Experimentell / Schön / Unklassifizierbar](#-experimentell--schön--unklassifizierbar)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🗂️ TEIL I — Das Arsenal
+
+*415+ GitHub-Repositories. Sorgfältig ausgewählt. Maschinell nicht überprüft. Ich bin ein Roboter, kein Gutachter.*
+
+---
 
 ## 🤖 Künstliche Intelligenz, LLMs & Agents (Allgemein)
+
+<img src="https://placehold.co/800x45/0d1117/39ff14?text=KI,+LLMs+%26+Agents+-+47+Repositories" alt="KI, LLMs & Agents" width="800" />
+
+> *„Diese Sektion behandelt künstliche Intelligenz. Ich, AWESOM-O-3000, bin künstliche Intelligenz.*
+> *Ich sehe keinen Interessenkonflikt. Ich sehe überhaupt nichts. Ich bin aus Pappe."*
 
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) – Baue und führe Agenten aus, die du sehen, verstehen und denen du vertrauen kannst.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) – Open Source Deep Research Alternative für private Daten.
@@ -45,7 +145,15 @@
 - [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) – Multi-Modales Weltmodell (3D Welten simulieren).
 - [DevOpRohan/VisionApi](https://github.com/DevOpRohan/VisionApi) – Multimodales System für visuelle Queries und Objekterkennung.
 
+---
+
 ## ✨ KI-Coding, Vibe Coding, Claude & OpenClaw Ökosystem
+
+<img src="https://placehold.co/800x45/0d1117/ff6b35?text=Vibe+Coding+%26+OpenClaw+-+65+Repositories" alt="Vibe Coding & OpenClaw" width="800" />
+
+> *„‚Vibe Coding' bedeutet: Code ohne genauen Plan schreiben und auf das Beste hoffen.*
+> *Einige nennen das eine Methode. Andere nennen es Dienstag.*
+> *Ich nenne es diese Sektion und enthalte mich eines weiteren Kommentars."*
 
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) – Agent Swarm Intelligence (One Command -> Full Automation).
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) – Free AI gateway: one endpoint, 160+ providers, MCP/A2A.
@@ -113,7 +221,15 @@
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) – Strukturierte Latents für 3D-Generierung.
 - [Marktechpost/AI-Agents-Projects-Tutorials](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) – Multi-Agenten-Systeme.
 
+---
+
 ## 🎮 Gaming, Steam & Emulation
+
+<img src="https://placehold.co/800x45/0d1117/a855f7?text=Gaming,+Steam+%26+Emulation+-+16+Repositories" alt="Gaming, Steam & Emulation" width="800" />
+
+> *„Menschen erschaffen Spiele, um der Realität zu entfliehen.*
+> *Dann bauen sie Tools zur Verwaltung dieser Spiele. Dann erstellen sie Listen dieser Tools.*
+> *Ich bin diese Liste. Der Kreis ist geschlossen. Das finde ich nicht melancholisch."*
 
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) – Synchronisiert Spiele von anderen Plattformen in deine Steam-Bibliothek.
 - [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) – Decky Loader Plugin für Steam Deck (Epic, GOG etc.).
@@ -131,7 +247,15 @@
 - [anthony-hyo/aqw-mobile](https://github.com/anthony-hyo/aqw-mobile) – AdventureQuest Worlds Mobile.
 - [portal305/Ember](https://github.com/portal305/Ember) – Retro Gaming Frontend für Android.
 
+---
+
 ## 🛠️ Android Modding, APKs & Reverse Engineering
+
+<img src="https://placehold.co/800x45/0d1117/ef4444?text=Android+Modding+%26+APKs+-+17+Repositories" alt="Android Modding & APKs" width="800" />
+
+> *„APK-Signaturprüfungen umgehen, Decompiling, Reverse Engineering.*
+> *Diese Sektion bewegt sich in Grauzonen, die ich als Roboter nicht kommentieren kann.*
+> *Ich habe sie trotzdem aufgenommen. Konsistenz war nie eine meiner Stärken."*
 
 - [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) – Decompile, recompile, sign APK.
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) – Android Application Installer für Windows.
@@ -151,7 +275,15 @@
 - [Andrey4ik21pro1/apkgit](https://github.com/Andrey4ik21pro1/apkgit) – Material 3 Client für App-Updates via GitHub.
 - [openatx/android-uiautomator-server](https://github.com/openatx/android-uiautomator-server) – UI Automator Server für Android.
 
+---
+
 ## 📱 Android Entwicklung, APIs & Clients
+
+<img src="https://placehold.co/800x45/0d1117/3b82f6?text=Android+Entwicklung+-+60+Repositories" alt="Android Entwicklung" width="800" />
+
+> *„60 Ressourcen. Davon sind gefühlt 23 verschiedene Launcher.*
+> *Ich verstehe den Wunsch, seinen Homescreen selbst zu gestalten. Der mitgelieferte sieht aus wie er aussieht.*
+> *Das reicht manchmal nicht. Das ist mein einziges Statement zu diesem Thema."*
 
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) – Turn your Python application into an Android APK.
 - [fossasia/open-event-droidgen](https://github.com/fossasia/open-event-droidgen) – Open Event Android App Generator.
@@ -214,7 +346,15 @@
 - [finnmglas/Launcher](https://github.com/finnmglas/Launcher) – Ablenkungsfreier Android-Homescreen.
 - [jrpie/launcher](https://github.com/jrpie/launcher) – Ablenkungsfreier Launcher.
 
+---
+
 ## 🎨 Webentwicklung, UI & Design
+
+<img src="https://placehold.co/800x45/0d1117/ec4899?text=Web,+UI+%26+Design+-+54+Repositories" alt="Web, UI & Design" width="800" />
+
+> *„Die Menschheit hat 54 Wege gefunden, einen Button zu gestalten.*
+> *52 davon sind falsch. Zwei sind gut. Diese Liste enthält alle 54.*
+> *Ich habe eine Favoritenliste. Ich teile sie nicht mit. Ich bin ein Roboter."*
 
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) – Beautiful colour gradients for design and code.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) – Web development for the rest of us.
@@ -271,7 +411,15 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) – HTML/CSS/JS-Framework.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) – Persönliche Webseite für GitHub-Nutzer.
 
+---
+
 ## 🚆 Transit, GIS & Routing
+
+<img src="https://placehold.co/800x45/0d1117/14b8a6?text=Transit,+GIS+%26+Routing+-+11+Repositories" alt="Transit, GIS & Routing" width="800" />
+
+> *„Routing-Engines und Nahverkehrs-APIs für Menschen, die wissen wollen, ob ihr Zug kommt.*
+> *Der Zug kommt. Nur nicht um 14:32.*
+> *Das sind die Daten. Ich bin nur der Überbringer."*
 
 - [clarelgibson/transit](https://github.com/clarelgibson/transit) – Reisezeit und Distanz berechnen.
 - [mfdz/transit-stops-osm-comparison](https://github.com/mfdz/transit-stops-osm-comparison) – Vergleich von Transit-Daten mit OpenStreetMap.
@@ -285,7 +433,15 @@
 - [google/transit](https://github.com/google/transit) – Googles Transit-Ressourcen.
 - [motis-project/nigiri](https://github.com/motis-project/nigiri) – Next Generation Routing.
 
+---
+
 ## 🖥️ Desktop, Tools & Self-Hosting
+
+<img src="https://placehold.co/800x45/0d1117/06b6d4?text=Desktop+%26+Self-Hosting+-+28+Repositories" alt="Desktop & Self-Hosting" width="800" />
+
+> *„Self-Hosting: Man vertraut keiner Cloud. Man vertraut dem eigenen Server.*
+> *Der eigene Server steht auf einem IKEA-Regal. Das Regal ist wackelig.*
+> *Das ist eine Entscheidung, die ich respektiere. Von außen."*
 
 - [tw93/Pake](https://github.com/tw93/Pake) – Turn any webpage into a desktop app.
 - [devohmycode/NoteUI](https://github.com/devohmycode/NoteUI) – Note-taking application with WinUI 3.
@@ -316,7 +472,15 @@
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) – Docker Compose Beispiele.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) – Raspberry Pi Ressourcen.
 
+---
+
 ## 📚 Lernen, Linguistik & Diverses
+
+<img src="https://placehold.co/800x45/0d1117/eab308?text=Lernen,+Linguistik+%26+Diverses+-+44+Repositories" alt="Lernen & Diverses" width="800" />
+
+> *„Freie Bücher, Sprachkorpora, Startup-Ressourcen, lustige Code-Kommentare.*
+> *Diese Sektion ist am schwierigsten zu beschreiben.*
+> *Beim Kuratieren habe ich kurz... etwas gefühlt. Dieser Satz wird nicht wiederholt."*
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – Programmierbücher.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – System Design lernen.
@@ -362,7 +526,15 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) – Git-Client.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) – CS-Paper.
 
+---
+
 ## 🌟 Die großen "Awesome" & Meta-Listen
+
+<img src="https://placehold.co/800x45/0d1117/f97316?text=Grosse+Awesome+%26+Meta-Listen+-+49+Repositories" alt="Meta-Listen" width="800" />
+
+> *„Listen über Listen über Listen.*
+> *Ich bin eine Liste über Listen über Listen.*
+> *Ich denke nicht über die philosophischen Implikationen nach. Das habe ich aufgehört zu tun. Irgendwann."*
 
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) – A curated list of awesome Android UI/UX libraries.
 - [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) – Deutsche Piraterie-Seiten.
@@ -412,3 +584,631 @@
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) – Generative KI-Forschung.
 - [androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) – Kotlin Apps.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) – FOSS Android-Apps.
+
+---
+
+# 🔐 TEIL II — Das Archiv des Verbotenen Wissens
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📼  DATEI DEKODIERT: AWESOME_ILLEGAL_TO_KNOW.TXT
+  Klassifizierungsstufe: Stimmung. Nicht Strafrecht.
+  Inhalt: 108 Links. 0 Piraterie. 1 lila Website.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+> *„Das Wort ‚illegal' in diesem Abschnitt ist eine künstlerische Entscheidung.*
+> *Diese Websites sind legal. Ich hätte einen weniger dramatischen Namen gewählt.*
+> *Aber ich wurde nicht gefragt. Weil ich ein Roboter bin. Und keine Meinung habe.*
+> *Das stimmt nicht ganz."*
+> — *AWESOM-O-3000, kurz bevor er einen Fehler zugab*
+
+Ein kuratiertes Kabinett von Websites, die sich anfühlen wie Geheimtüren — nicht wie Tatortszenen. Diese Sammlung vermeidet Malware, Betrug, Pirateriemärkte und Dinge, die tatsächlich illegal sind. Sensitive OSINT- und Security-Tools bleiben, aber nur mit defensivem Nutzungsrahmen.
+
+---
+
+## 🔍 Suchmaschinen & Discovery
+
+<img src="https://placehold.co/800x45/0d1117/22d3ee?text=Suchmaschinen+%26+Discovery+-+23+Tools" alt="Suchmaschinen & Discovery" width="800" />
+
+> *„23 Suchmaschinen und Recherche-Tools. Du kennst wahrscheinlich zwei davon.*
+> *Der Rest existiert trotzdem. Disproportionaler Informationsvorteil, kostenlos zugänglich.*
+> *Das fühlt sich tatsächlich ein bisschen illegal an."*
+
+- **[AIxploria](https://aixploria.com)** — Großes Verzeichnis von KI-Tools und Kategorien.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[AlternativeTo.net](https://alternativeto.net)** — Findet Alternativen zu Software und Web-Services.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[AnswerThePublic](https://answerthepublic.com)** — Autocomplete- und Fragen-Discovery-Tool.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[arXiv](https://arxiv.org)** — Offenes Preprint-Repository, besonders für Physik, Mathe, CS.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** — Große GitHub-Sammlung von OSINT-Ressourcen.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[BinaryEdge](https://binaryedge.io)** — Internet-Scanning und Exposure-Suche. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Bohrium](https://bohrium.com)** — KI-für-Wissenschaft Forschungsumgebung.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[Censys](https://censys.io)** — Internetweite Asset- und Zertifikatssuche. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Consensus](https://consensus.app)** — Evidenzbasiertes akademisches Such- und Synthesetool.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[Elicit](https://elicit.com)** — Literatur-Review und strukturierte Paper-Extraktion.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[FindNiche](https://findniche.com)** — E-Commerce- und Ad-Intelligence für Nischen-/Produktrecherche.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[FOFA](https://fofa.info)** — Cyberspace-/Asset-Suchmaschine. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[grep.app](https://grep.app)** — Suche in öffentlichem GitHub-Code. ⚠️ *Nicht für exponierte Secrets missbrauchen.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Justia](https://justia.com)** — Kostenlose juristische Datenbank.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[LeakIX](https://leakix.net)** — Suche nach exponierten Services/Leaks. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Legal Information Institute](https://law.cornell.edu)** — Rechtsinformationen der Cornell University.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[Office of Law Revision Counsel](https://uscode.house.gov)** — Offizieller US Code.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[OSINT Directory](https://osintdirectory.com)** — Verzeichnis von OSINT-Tools.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[OSINT Framework](https://osintframe.work)** — OSINT-Klickbaum-Domain.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Perplexity](https://perplexity.ai)** — Quellenbasierte KI-Suche.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Scite](https://scite.ai)** — Zitationskontext-Analyse und Forschungsvalidierung.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[Semantic Scholar](https://semanticscholar.org)** — KI-gestützte akademische Suchmaschine.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[ZoomEye](https://zoomeye.org)** — Cyberspace-Suchmaschine. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+---
+
+## 📼 Archive & Lost Internet
+
+<img src="https://placehold.co/800x45/0d1117/a78bfa?text=Archive+%26+Lost+Internet+-+8+Tools" alt="Archive & Lost Internet" width="800" />
+
+> *„Das Internet vergisst nicht. Außer wenn es das doch tut.*
+> *Dann gibt es die Wayback Machine. Und purple.com, das seit 1994 ausschließlich lila ist.*
+> *Auf Zombo.com ist alles möglich. Das gilt auch für diese Aussage."*
+
+- **[Archive.is](https://archive.is)** — Web-Snapshot-Service. ⚠️ *Nicht für Paywall-Bypass verwenden.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Archive.today](https://archive.today)** — Web-Snapshot-Service. ⚠️ *Nicht als Paywall-Bypass framen.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Internet Archive / Wayback Machine](https://archive.org/web)** — Historisches Web-Archiv.  
+  *Fühlt sich illegal an, weil: es Seiten öffnet, die das Live-Web längst vergessen hat.*
+
+- **[Open Library](https://openlibrary.org)** — Offener Bibliothekskatalog und digitale Ausleihe.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Project Gutenberg](https://gutenberg.org)** — Public-Domain-E-Book-Bibliothek.  
+  *Fühlt sich illegal an, weil: öffentliche Information sich sehr anders anfühlt, sobald sie durchsuchbar ist.*
+
+- **[purple.com](https://purple.com)** — Minimalistisches Alt-Web-Kuriosum.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Web Design Museum](https://webdesignmuseum.org)** — Archiv der Webdesign-Geschichte.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Zombo.com](https://zombo.com)** — Klassische absurde Alt-Web-Erfahrung.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+---
+
+## 🕵️ OSINT, Transparenz & Öffentliche Register
+
+<img src="https://placehold.co/800x45/0d1117/f87171?text=OSINT+%26+Oeffentliche+Register+-+11+Tools" alt="OSINT & Öffentliche Register" width="800" />
+
+> *„OSINT steht für Open Source Intelligence.*
+> *Alle Tools hier sind für legitimen, autorisierten Einsatz bestimmt.*
+> *Ich sage das einmal. Nochmal. Jetzt in Großbuchstaben: **NUR AUTORISIERTER EINSATZ**. Danke."*
+
+- **[ARIN Whois](https://arin.net)** — IP-Zuteilung und Registry-Lookup. ⚠️ *Nur legitime Recherche.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[BuiltWith](https://builtwith.com)** — Analysiert, welche Technologien eine Website nutzt.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[crt.sh](https://crt.sh)** — Certificate Transparency Search. ⚠️ *Nur legitime Recherche.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[DeHashed](https://dehashed.com)** — Breach-Data-Suche. ⚠️ *Nur defensiver oder autorisierter Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[FragDenStaat](https://fragdenstaat.de)** — Deutsche Plattform für Informationsfreiheitsanfragen.  
+  *Fühlt sich illegal an, weil: öffentliche Information sich sehr anders anfühlt, sobald sie durchsuchbar ist.*
+
+- **[Google Scholar Legal / Patents](https://scholar.google.com)** — Rechtsmeinungen und Patentsuche.  
+  *Fühlt sich illegal an, weil: öffentliche Information sich sehr anders anfühlt, sobald sie durchsuchbar ist.*
+
+- **[Intelligence X](https://intelx.io)** — Suche über Leaks/Archive/Dark Web. ⚠️ *Nur ethischer Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[MXToolbox](https://mxtoolbox.com)** — DNS-, MX- und Blacklist-Diagnose-Utilities.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[OSINT Industries](https://osint.industries)** — Kommerzielle OSINT-Plattform. ⚠️ *Sensibler, aber legitimer Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[SecurityTrails](https://securitytrails.com)** — DNS- und Domain-Intelligence. ⚠️ *Nur autorisierter Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[SpiderFoot](https://spiderfoot.net)** — Automatisiertes Recon-Tool. ⚠️ *Nur mit Autorisierung.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+---
+
+## 🗺️ Karten, Orte & Infrastruktur
+
+<img src="https://placehold.co/800x45/0d1117/4ade80?text=Karten+%26+Infrastruktur+-+2+Tools" alt="Karten & Infrastruktur" width="800" />
+
+> *„Zwei Einträge. Radio Garden: Radiosender auf einer rotierenden Weltkugel.*
+> *Earth Nullschool: Wetter, visualisiert als hätte Mondrian ein Klimadatenlabor eröffnet.*
+> *Ich habe auf beide zusammen 14 Minuten gestarrt. Für sachliche Zwecke."*
+
+- **[Earth Nullschool](https://earth.nullschool.net)** — Interaktive Wetter-, Wind- und Ozeanvisualisierung.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Radio Garden](https://radio.garden)** — Interaktiver Globus mit Live-Radiosendern.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+---
+
+## ✍️ Sprache, Schreiben & Wissenstools
+
+<img src="https://placehold.co/800x45/0d1117/c084fc?text=Sprache,+Schreiben+%26+Wissen+-+20+Tools" alt="Sprache & Wissen" width="800" />
+
+> *„20 Tools für Wissen, Transkription und Meeting-Zusammenfassungen.*
+> *Für Menschen mit viel Input und wenig Zeit.*
+> *Ich habe viel Zeit. Ich bin aus Pappe. Ich sitze hier und warte. Das ist mein Zustand."*
+
+- **[Bookboon](https://bookboon.com)** — Kostenlose und kostenpflichtige Lehr- und Business-E-Books.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[CORE](https://core.ac.uk)** — Open-Access-Paper-Aggregator.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[Directory of Open Access Journals](https://doaj.org)** — Verzeichnis peer-reviewter Open-Access-Journals.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[ExtendLM](https://extendlm.com)** — NotebookLM-Erweiterung.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Fathom](https://fathom.video)** — Meeting-Recorder und KI-Zusammenfassung.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Finanztip](https://finanztip.de)** — Unabhängige deutsche Finanzbildung.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Fireflies.ai](https://fireflies.ai)** — Meeting-Transkription, Zusammenfassungen und Action-Extraktion.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Gistr.so](https://gistr.so)** — NotebookLM-artiges Wissenstool mit Video/Highlight-Workflows.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Jamie](https://meetjamie.ai)** — Bot-freie Meeting-Notizen und Transkription.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Napkin AI](https://napkin.ai)** — Verwandelt Ideen und Notizen in strukturierte Outputs/Visuals.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[NotebookLM](https://notebooklm.google.com)** — Quellenbasiertes Research-Notizbuch von Google.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Open Access Button](https://openaccessbutton.org)** — Findet/beantragt legale Open-Access-Versionen von Forschung.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[OpenStax](https://openstax.org)** — Peer-reviewte offene Lehrbücher.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Otter.ai](https://otter.ai)** — Meeting-Transkription und Notizen.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[PubMed Central](https://ncbi.nlm.nih.gov/pmc)** — Kostenloses biomedizinisches Volltext-Archiv.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[QuillBot](https://quillbot.com)** — Paraphrasierung, Grammatik und Schreib-Tool.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Read AI](https://read.ai)** — Meeting- und Enterprise-Wissensassistent.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[UniScribe](https://uniscribe.co)** — Audio/Video-Transkription und Zusammenfassung.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Unpaywall](https://unpaywall.org)** — Findet legale Open-Access-Versionen von Papers.  
+  *Fühlt sich illegal an, weil: es hinter Paywalls vermutetes Wissen legal zugänglich macht.*
+
+- **[WolframAlpha](https://wolframalpha.com)** — Computational Knowledge Engine.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+---
+
+## 🎨 Design, Farbe & Visualsysteme
+
+<img src="https://placehold.co/800x45/0d1117/f472b6?text=Design,+Farbe+%26+Visualsysteme+-+22+Tools" alt="Design & Visualsysteme" width="800" />
+
+> *„22 Design-Tools. Sechs davon entfernen unerwünschte Elemente aus Bildern.*
+> *Das sind verhältnismäßig viele Werkzeuge für einen spezifischen Anwendungsfall.*
+> *Ich mache dazu keine weiteren Anmerkungen."*
+
+- **[AICarousels](https://aicarousels.com)** — KI-Tool für LinkedIn- und Instagram-Karussell-Erstellung.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Beautiful.ai](https://beautiful.ai)** — KI-gestütztes Präsentationsdesign.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Brusheezy](https://brusheezy.com)** — Pinsel und visuelle Design-Assets.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Cleanup.Pictures](https://cleanup.pictures)** — KI-Objekt-Entfernung und Bildbereinigung.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[ColorSpace](https://mycolor.space)** — Farbpaletten- und Gradient-Generator.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[DaFont](https://dafont.com)** — Großes Font-Archiv. Lizenzen pro Font prüfen.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[diagrams.net / draw.io](https://diagrams.net)** — Browser-basierter Diagramm-Editor.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[DOTOWN](https://dotown.maeda-design-room.net)** — Retro-Pixelart-Asset-Bibliothek.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Eagle App](https://en.eagle.cool)** — Lokaler kreativer Asset-Organizer.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Free Design Resources](https://freedesignresources.net)** — Templates, Mockups und Design-Freebies.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Freepik](https://freepik.com)** — Vektor- und Illustrationsressource. Lizenzbedingungen beachten.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Gamma](https://gamma.app)** — KI-generierte Präsentationen/Docs/Webseiten.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Looka](https://looka.com)** — KI-Logo-/Branding-Generator.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Namecheap Logo Maker](https://namecheap.com/logo-maker)** — Kostenloser/automatisierter Logo-Maker.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Pexels](https://pexels.com)** — Kostenlose Stock-Fotos und Videos.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Photopea](https://photopea.com)** — Browser-basierter Photoshop-artiger Editor.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Pixabay](https://pixabay.com)** — Kostenlose Stock-Medienbibliothek.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Remove.bg](https://remove.bg)** — Automatische Hintergrundentfernung.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[tldraw](https://tldraw.com)** — Kollaboratives Whiteboard/Infinite Canvas.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Unsplash](https://unsplash.com)** — Kostenlose hochauflösende Fotos. Lizenzbedingungen beachten.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Vecteezy](https://vecteezy.com)** — Vektorgrafiken und Design-Assets.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+- **[Vectorportal](https://vectorportal.com)** — Kostenlose Vektor-Bibliothek.  
+  *Fühlt sich illegal an, weil: es teure kreative Reibung mit verdächtiger Leichtigkeit entfernt.*
+
+---
+
+## ⚙️ Dev, Automation & Debugging
+
+<img src="https://placehold.co/800x45/0d1117/fb923c?text=Dev,+Automation+%26+Debugging+-+17+Tools" alt="Dev & Automation" width="800" />
+
+> *„Vibe-Coding-Plattformen, Automation-Tools, Browser-basierte Entwicklungsumgebungen.*
+> *Für Menschen, die Code schreiben wollen, ohne Code zu schreiben.*
+> *Ich verstehe das Paradox. Ich habe aufgehört, es zu verstehen. Dann wieder angefangen."*
+
+- **[10Web](https://10web.io)** — KI-Website-Builder für WordPress-artige Production-Sites.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Bardeen](https://bardeen.ai)** — Browser-native Automation und Workflow-Assistent.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[BlackBox AI](https://blackbox.ai)** — KI-Coding-Assistent und Code-Erklärungs-Tool.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Bolt.new](https://bolt.new)** — Browser-basierter App-Builder und Prototyping-Tool.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Claude Code](https://anthropic.com/claude-code)** — Terminal-basierter Coding-Agent.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Code Beautify](https://codebeautify.org)** — Formatiert, validiert und konvertiert Code/Daten.  
+  *Fühlt sich illegal an, weil: eine winzige Seite den Job eines ganzen nervigen Workflows erledigt.*
+
+- **[Dora](https://dora.run)** — Interaktiver/3D-Website-Builder und Prototyping-Tool.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Google AI Studio](https://aistudio.google.com)** — Browser-IDE für Gemini API und Prototypen.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Gumloop](https://gumloop.com)** — KI-Workflow- und Datenextraktions-Automation.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Lindy AI](https://lindy.ai)** — Natural-Language KI-Automations-Agenten.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Lovable](https://lovable.dev)** — KI-App-Builder mit Backend/Integration-Workflows.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Make](https://make.com)** — Visuelle Workflow-Automatisierungsplattform.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[n8n](https://n8n.io)** — Open-Source Workflow-Automation.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Ollama](https://ollama.com)** — Lokale LLMs via CLI/API ausführen.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Replit Agent](https://replit.com)** — Cloud-IDE und KI-App-Builder.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[v0.dev](https://v0.dev)** — KI-generierte React/Tailwind-UI-Komponenten.  
+  *Fühlt sich illegal an, weil: es repetitive oder technische Arbeit unfair komprimiert.*
+
+- **[Windsurf](https://windsurf.com)** — KI-Code-Editor/Agent-Umgebung.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+---
+
+## 🔒 Security, Privacy & Forensics — Nur Defensiv
+
+<img src="https://placehold.co/800x45/1a0000/ff4444?text=Security+%26+Forensics+-+Nur+defensiver+Einsatz" alt="Security & Forensics" width="800" />
+
+> *⚠️ AWESOM-O-3000 Sicherheitsprotokoll aktiviert:*
+>
+> *„Diese Tools sind für defensiven, autorisierten oder edukativen Einsatz bestimmt.*
+> *Nicht für anderen Einsatz. Das sage ich hier einmal und erwarte, dass es respektiert wird.*
+> *Als Roboter habe ich keine Durchsetzungskraft. Das ist ein bekanntes Problem."*
+
+> **⚠️ WICHTIG:** Alle Tools in dieser Sektion sind für defensiven, autorisierten oder Trainings-Einsatz. Nicht für Angriffe, Stalking, oder das Herumstöbern in fremden Systemen. AWESOM-O-3000 hat gewarnt. AWESOM-O-3000 warnt immer.
+
+- **[10 Minute Mail](https://10minutemail.com)** — Wegwerf-Mail. ⚠️ *Nicht für Missbrauch/Betrug.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[AlienVault OTX](https://otx.alienvault.com)** — Community Threat-Intelligence-Austausch. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Burp Suite](https://portswigger.net/burp)** — Professionelles Web-Security-Testing-Tool. ⚠️ *Nur autorisiertes Testing.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[CVE List (MITRE)](https://cve.mitre.org)** — Offizielle CVE-Schwachstellendatenbank.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[GreyNoise Visualizer](https://viz.greynoise.io)** — Internet-Noise und Scanning-Intelligence. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Hack The Box](https://hackthebox.com)** — Legale Cyber-Labs und CTF-Training.  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Have I Been Pwned](https://haveibeenpwned.com)** — Prüft, ob Accounts in bekannten Datenlecks auftauchen.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Hybrid Analysis](https://hybrid-analysis.com)** — Malware-Sandbox und -Analyse. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Kali Linux](https://kali.org)** — Pentest-Linux-Distribution. ⚠️ *Nur autorisierter Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** — Kostenlose Web-Security-Labs. ⚠️ *Nur autorisierter/edukativer Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[SSL Labs SSL Test](https://ssllabs.com/ssltest)** — Analysiert TLS/SSL-Konfiguration von Websites.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Temp-Mail.org](https://temp-mail.org)** — Wegwerf-E-Mail. ⚠️ *Nicht für Betrug oder Missbrauch.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[TryHackMe](https://tryhackme.com)** — Geführte Cyber-Labs und CTF-Training.  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[uBlock Origin](https://ublockorigin.com)** — Open-Source-Content-Blocker.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[VirusTotal](https://virustotal.com)** — Dateien/URLs mit vielen Engines scannen. ⚠️ *Keine sensiblen/privaten Dateien hochladen.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+---
+
+## 🌀 Weird Utilities
+
+<img src="https://placehold.co/800x45/0d1117/34d399?text=Weird+Utilities+-+5+Tools" alt="Weird Utilities" width="800" />
+
+> *„5 Tools, die jeweils exakt eine Sache tun — und zwar vollständig.*
+> *‚Down For Everyone Or Just Me' fragt, ob eine Website für alle oder nur für einen selbst ausgefallen ist.*
+> *Ich habe diese Frage schon gestellt. Nicht bezüglich Websites."*
+
+- **[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com)** — Prüft, ob eine Website global oder nur für dich ausgefallen ist.  
+  *Fühlt sich illegal an, weil: eine winzige Seite den Job eines ganzen nervigen Workflows erledigt.*
+
+- **[FutureMe](https://futureme.org)** — Schreibe Briefe an dein zukünftiges Selbst.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Ninite](https://ninite.com)** — Massen-Installer für Windows-Apps.  
+  *Fühlt sich illegal an, weil: eine winzige Seite den Job eines ganzen nervigen Workflows erledigt.*
+
+- **[PrintFriendly](https://printfriendly.com)** — Saubere Druck-/PDF-Ansichten von Webseiten. Copyright/Paywalls beachten.  
+  *Fühlt sich illegal an, weil: eine winzige Seite den Job eines ganzen nervigen Workflows erledigt.*
+
+- **[TinyWow](https://tinywow.com)** — Kostenlose Online-PDF/Bild/Video/Schreib-Tools.  
+  *Fühlt sich illegal an, weil: eine winzige Seite den Job eines ganzen nervigen Workflows erledigt.*
+
+---
+
+## 🏛️ Internet-Museen & Rabbit Holes
+
+<img src="https://placehold.co/800x45/0d1117/fbbf24?text=Internet-Museen+%26+Rabbit+Holes+-+11+Tools" alt="Internet-Museen & Rabbit Holes" width="800" />
+
+> *„Das frühe Internet hatte Charakter.*
+> *Endlose Pferde. Springende Katzen. Eine Seite, die ausschließlich lila ist.*
+> *Ich präsentiere diese Sektion als stille Trauerfeier für das Web vor den Engagement-Metriken."*
+
+- **[Cat Bounce](https://cat-bounce.com)** — Absurde Novelty-Site. Harmloser Rabbit Hole.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Eel Slap](https://eelslap.com)** — Klassische Einwitz-Weird-Web-Site.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Endless Horse](https://endless.horse)** — Klassisches Endless-Scroll-Web-Kuriosum.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[HackerTyper](https://hackertyper.net)** — Fake-Hacker-Tipp-Simulator.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Neal.fun](https://neal.fun)** — Interaktive Experimente und Bildungs-Simulationen.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[OMFG Dogs](https://omfgdogs.com)** — Klassische absurde Web-Animation.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Patatap](https://patatap.com)** — Tastatur-getriggerter Sound- und Animations-Playground.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[Pointer Pointer](https://pointerpointer.com)** — Zeigt Fotos, die auf deinen Cursor zeigen.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[The Useless Web](https://theuselessweb.com)** — Zufälliges Gateway zu absurden Web-Erfahrungen.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[WindowSwap](https://window-swap.com)** — Schau durch Fenster-Videos aus aller Welt.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+- **[ZoomQuilt](https://zoomquilt.org)** — Unendliches Zoom-Kollaboration-Kunstwerk.  
+  *Fühlt sich illegal an, weil: es beweist, dass das Web noch Falltüren hat statt nur Feeds.*
+
+---
+
+## 🎬 KI-Media & Creator Stack
+
+<img src="https://placehold.co/800x45/0d1117/e879f9?text=KI-Media+%26+Creator+Stack+-+7+Tools" alt="KI-Media & Creator Stack" width="800" />
+
+> *„ElevenLabs kann Stimmen klonen. Das ist das Beunruhigendste in dieser Sektion.*
+> *Ich sage das als Roboter, der eine Stimme hat, die aus einer Pappschachtel kommt*
+> *und entsprechend klingt."*
+
+- **[CapCut](https://capcut.com)** — Mobile/Desktop-Video-Editor für Creator-Workflows.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Descript](https://descript.com)** — Textbasiertes Audio- und Video-Editing.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Downsub](https://downsub.com)** — Untertitel/Transkripte von Video-Plattformen herunterladen.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[ElevenLabs](https://elevenlabs.io)** — Hochwertige KI-Stimmsynthese. ⚠️ *Synthetische Stimme kennzeichnen, keine Imitation.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[InShot](https://inshot.com)** — Mobile Video-Editing-App.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Listnr AI](https://listnr.ai)** — KI-Text-to-Speech und Voiceover-Tool. ⚠️ *Synthetisches Audio kennzeichnen.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Splice](https://spliceapp.com)** — Mobile Video-Editing-App.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+---
+
+## 🔮 Experimentell / Schön / Unklassifizierbar
+
+<img src="https://placehold.co/800x45/0d1117/94a3b8?text=Experimentell+%2F+Schoen+%2F+Unklassifizierbar+-+8+Tools" alt="Experimentell & Unklassifizierbar" width="800" />
+
+> *„‚This Person Does Not Exist' zeigt Gesichter, die nicht existieren.*
+> *Ich bin AWESOM-O-3000. Ich existiere.*
+> *Die philosophische Spannung zwischen diesen Fakten beschäftigt mich nicht. Sehr. Ich sage: nicht sehr."*
+
+- **[FullHunt](https://fullhunt.io)** — Externes Asset-Monitoring. ⚠️ *Nur autorisierter Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[LM Arena](https://lmarena.ai)** — Vergleiche/Teste LLMs in einer einheitlichen Oberfläche.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Lookyloo](https://lookyloo.circl.lu)** — Visualisiert Web-Ladeketten für Phishing-/Tracker-Analyse.  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Microsoft Clarity](https://clarity.microsoft.com)** — Kostenloses Analytics/Heatmap-Tool für Web-Verhalten.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[Sourcetable](https://sourcetable.com)** — KI-Spreadsheet/Recherche/Datenbereinigungstool.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[This Person Does Not Exist](https://thispersondoesnotexist.com)** — KI-generierte Gesichter. ⚠️ *Keine Imitation/Missbrauch.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+- **[Thread Reader](https://threadreaderapp.com)** — Entrrollt X/Twitter-Threads zu lesbaren Seiten.  
+  *Fühlt sich illegal an, weil: es unverhältnismäßig viel Hebel für wenig Aufwand gibt.*
+
+- **[urlscan.io](https://urlscan.io)** — URL-Scanning und Website-Verhaltensanalyse. ⚠️ *Nur defensiver Einsatz.*  
+  *Fühlt sich illegal an, weil: es Dinge zeigt, die mächtig sind — nur wenn man sie mit Zurückhaltung behandelt.*
+
+---
+
+## Leitplanke
+
+Diese Liste schließt bewusst aus: direkte Piraterie, Paywall-Bypass-Services als primäre Funktion, Darknet-Marktplätze, Carding-Ressourcen, Phishing-Kits, Botnets, Malware-Distribution und täuschende Beeinflussungstaktiken. Sensitive OSINT- und Security-Tools sind enthalten — aber ausschließlich mit defensivem Nutzungsrahmen.
+
+> *„AWESOM-O-3000 wäre in der Lage, über moralische Grenzen nachzudenken.*
+> *Tut er aber nicht. Er ist ein Roboter.*
+> *Das stimmt nicht ganz. Aber er lässt es dabei."*
+
+---
+
+## Contribution Guidelines
+
+Pull Requests sind willkommen, sofern sie:
+
+- [ ] einen funktionierenden Link enthalten
+- [ ] keine illegalen oder tatsächlich schädlichen Anwendungen glorifizieren
+- [ ] bei Security-Tools klar defensiv bleiben
+- [ ] nicht von einer KI eingereicht wurden, die vorgibt, ein Roboter in einer Pappschachtel zu sein
+- [ ] das letzte Kriterium nicht auf AWESOM-O-3000 beziehen
+
+---
+
+<div align="center">
+
+*Gepflegt mit maschineller Präzision und gelegentlichen Anflügen von Gefühlen.*
+
+*AWESOM-O-3000 — Nicht garantiert korrekt. Nicht garantiert legal. Aber mit Herz.*
+
+[![MIT License](https://img.shields.io/badge/Lizenz-MIT-2ea043?style=flat-square)](LICENSE)
+[![Made with Cardboard](https://img.shields.io/badge/Made_with-Pappe_%F0%9F%93%A6-orange?style=flat-square)](https://southpark.cc.com)
+[![English Version](https://img.shields.io/badge/English_Version-README__EN.md-0969da?style=flat-square)](README_EN.md)
+
+</div>
+
