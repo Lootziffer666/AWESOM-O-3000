@@ -780,3 +780,139 @@ OBSERVE
 ```
 
 The same operator graph can support painting, geometry reconstruction, world editing, UI transitions, simulation marks, and procedural environmental changes without collapsing them into one stylistic subsystem.
+
+---
+
+# 2026-09-07 donor batch — planet voxels, procedural CSG, refractive glass
+
+## 13. Benziza/planetcraft — surface-only voxel planet / browser instancing
+
+Repository: https://github.com/Benziza/planetcraft
+
+### Functional interpretation
+
+```text
+PLANET / GEO DATA
+      ↓
+VOXEL OCCUPANCY
+      ↓
+6-NEIGHBOR INTERIOR REJECTION
+      ↓
+SURFACE CELLS ONLY
+      ↓
+INSTANCED RENDERING
+```
+
+### SHADED role
+
+**Operator class:** `WORLD REPRESENTATION / SURFACE VOXELIZATION / INSTANCING`
+
+Useful primarily as a compact browser-side implementation reference for:
+
+- voxelizing a planet-like volume;
+- dropping fully enclosed cells before rendering;
+- rendering repeated surface cells through instancing;
+- mapping geographic / biome information onto spatial cells;
+- keeping a globe-scale toy world cheap enough for the browser.
+
+### Value
+
+**B as implementation reference; C as unique core technique.**
+
+The useful donor pattern is the cheap surface-only extraction and instancing path, not a sophisticated planetary engine. Verify licensing before any source reuse.
+
+---
+
+## 14. Matvey-Kuk/reopenscad — declarative procedural geometry / CSG pipeline
+
+Repository: https://github.com/Matvey-Kuk/reopenscad
+
+### Functional interpretation
+
+```text
+DECLARATIVE MODEL / PARAMETERS
+          ↓
+PARSE + EVALUATE
+          ↓
+CSG / IMPLICIT GEOMETRY
+          ↓
+MESH EXTRACTION
+          ↓
+PREVIEW / EXPORT
+```
+
+### SHADED role
+
+**Operator class:** `PROCEDURAL GEOMETRY / CSG / TEXT-TO-GEOMETRY`
+
+Strong architecture reference for:
+
+- a compact declarative geometry language;
+- parameterized procedural modeling;
+- union / difference / intersection style composition;
+- separating authoring semantics from meshing / rendering;
+- browser-side preview and export workflows;
+- exposing procedural geometry as an operator graph or prompt-driven construction layer.
+
+The repository ships an explicit language specification (`SPEC_LANG.md`) and a browser workbench. Its GPL license makes it primarily an architecture / behavior / test reference unless SHADED intentionally accepts the corresponding copyleft obligations.
+
+### Value
+
+**A / A− architectural donor.**
+
+The key SHADED abstraction is not “OpenSCAD clone”; it is:
+
+```text
+INTENT / PARAMETERS → STRUCTURED GEOMETRY PROGRAM → REAL MESH
+```
+
+---
+
+## 15. Dragon Ball shader — refractive scene-reactive glass operator
+
+Source: https://codeblog.farzon.org/dragonball-shader
+
+### Functional interpretation
+
+```text
+SCENE COLOR / ENVIRONMENT
+        +
+GLASS MASK / SURFACE NORMALS
+        ↓
+FRESNEL
+REFLECTION
+REFRACTION
+INTERNAL RAY TRAVEL
+OPTIONAL DISPERSION / CAUSTICS
+        ↓
+SCENE-REACTIVE GLASS
+```
+
+### SHADED role
+
+**Operator class:** `RENDERING / REFRACTIVE GLASS / SCENE-REACTIVE MATERIAL`
+
+This is especially relevant to the SHADED mark: the impossible isometric S does not need to become a physically consistent solid. Its visible faces can act as an optical operator over the already rendered scene.
+
+Possible pipeline:
+
+```text
+RENDER SCENE
+   ↓
+SHADED LOGO MASK + PSEUDO-NORMALS
+   ↓
+REFRACT BACKGROUND
+   + REFLECT ENVIRONMENT
+   + FRESNEL EDGE RESPONSE
+   + SUBTLE RGB DISPERSION
+   ↓
+TRANSPARENT LOGO THAT INHERITS THE CURRENT WORLD
+```
+
+That preserves the impossible S exactly while allowing the mark to look physically responsive: snow, fire, water, night, vegetation, sky, and lighting all change what the logo reflects and refracts without changing the logo identity.
+
+### Value
+
+**S for SHADED branding/material behavior; A as general rendering donor.**
+
+The important design rule is that the logo should not own a fixed color. Its identity is **geometry + scene response**.
