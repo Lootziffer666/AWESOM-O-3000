@@ -916,3 +916,122 @@ That preserves the impossible S exactly while allowing the mark to look physical
 **S for SHADED branding/material behavior; A as general rendering donor.**
 
 The important design rule is that the logo should not own a fixed color. Its identity is **geometry + scene response**.
+
+---
+
+# 2026-09-10 donor batch — self-healing local rules + GPU-native WebGPU editing
+
+## 16. smoothyy3/tardigrade — neural cellular automata / self-healing local field rules
+
+Repository: https://github.com/smoothyy3/tardigrade
+
+### Functional interpretation
+
+```text
+CELL STATE (16 values)
+      +
+3x3 LOCAL NEIGHBOURHOOD
+      ↓
+LEARNED CONVOLUTION + 2-LAYER MLP
+      ↓
+LOCAL STATE UPDATE
+      ↓ repeated everywhere
+EMERGENT STABLE GLOBAL FORM
+```
+
+### SHADED role
+
+**Operator class:** `EMERGENT SIMULATION / NCA / SELF-HEALING LOCAL FIELDS`
+
+The useful abstraction is not the terminal creature itself. Every cell runs the same small learned local rule; the desired global shape is an attractor / stable state of that rule rather than a stored image. Damage can therefore be repaired by the surviving local state.
+
+Useful SHADED transfer paths:
+
+- regenerative vegetation, moss, fungus, tissue, crusts or other biological fields;
+- destructible structures that locally reorganize toward a target morphology;
+- material systems where global form emerges from cheap neighbourhood updates;
+- active-region simulation in which only disturbed cells and their neighbourhood need updates;
+- learned local rules as an alternative to explicitly scripting every global repair or growth process.
+
+The shipped creatures use 16 values per cell, one 3x3 learned convolution and a two-layer MLP; each creature is represented by about 24k parameters / 96 KB of weights. Training is offline in PyTorch/NCAtorch, while runtime inference is implemented directly in Go and checked against a fixed PyTorch-derived forward-pass fixture.
+
+### Value
+
+**S architectural donor.**
+
+Core lesson:
+
+```text
+DO NOT STORE THE FORM
+STORE / LEARN THE LOCAL LAW WHOSE STABLE STATE IS THE FORM
+```
+
+MIT licensed, but still treat the algorithmic pattern and tests as the primary donor value rather than blindly transplanting implementation details.
+
+---
+
+## 17. playcanvas/supersplat v3.0.0 — GPU-native WebGPU editor architecture
+
+Repository: https://github.com/playcanvas/supersplat
+Release: https://github.com/playcanvas/supersplat/releases/tag/v3.0.0
+
+### Functional interpretation
+
+```text
+CHUNKED GPU-RESIDENT SPLAT DATA
+        ↓
+GPU PROJECT
+        ↓
+FRUSTUM CULL
+        ↓
+COMPACT
+        ↓
+GPU RADIX SORT
+        ↓
+INDIRECT DRAW
+        ↓
+INTERACTIVE EDIT / SELECT / PICK / EXPORT
+```
+
+### SHADED role
+
+**Operator class:** `WEBGPU ARCHITECTURE / GPU-RESIDENT EDITOR / COMPUTE CULL-SORT-DRAW`
+
+SuperSplat 3.0 rewrites both renderer and editor data model around WebGPU. Projection, culling, compaction, depth sorting and draw submission all execute on the GPU; the previous CPU sort worker and WebGL2 renderer are removed from the 3.x editor.
+
+Architectural donor points for SHADED:
+
+- chunked GPU storage instead of retaining full floating-point scene copies in JavaScript;
+- small editable per-instance state layered over largely static GPU-resident data;
+- GPU compute for histogram, range selection, colour matching, bounds and selection intersections;
+- streamed chunk-by-chunk serialization / export instead of rematerializing an entire scene in RAM;
+- indirect draw and GPU radix sort as a reusable browser-native large-set pipeline;
+- asynchronous edit / selection work isolated from later camera changes;
+- GPU depth picking for interactive tools;
+- adaptive `Stochastic Alpha`: sort-free stochastic transparency while movement is expensive, then return to exact sorted blending when the view settles.
+
+The release reports large JavaScript-heap reductions on its 4.4M-splat / 990 MB PLY benchmark, including idle scene memory dropping from 1,557 MB in v2 to 105 MB in v3 and 1080p video rendering from 1,673 MB to 142 MB.
+
+### SHADED transfer pattern
+
+```text
+GPU RESIDENCY
+→ CHUNKED STORAGE
+→ COMPUTE CULL / COMPACT
+→ GPU SORT WHEN NEEDED
+→ INDIRECT DISPATCH / DRAW
+→ GPU-NATIVE EDIT OPERATIONS
+→ STREAMED SERIALIZATION
+```
+
+This pattern is relevant beyond Gaussian splats: large voxel surfaces, particles, sparse cells, material-field instances and other high-count editable primitives can use the same division of labour.
+
+### Constraint
+
+SuperSplat Editor 3.0 intentionally requires WebGPU. For SHADED, treat that as a high-end reference path rather than an argument to remove the existing Reference / WebGL / fallback ladder.
+
+### Value
+
+**S architectural donor.**
+
+The strongest donor value is the editor architecture, not Gaussian splatting by itself.
